@@ -1,0 +1,3419 @@
+#define	imgBlank
+	<img border=0 width=20 height=20 alt="${morse()}" src="${images}/blank.gif">
+
+##define	nextUp
+#	${base_url}?${encrypt(counter=${nextNum})}
+##define	nextUp
+#	${base_url}
+
+#define	randImg
+	background="http://www.adjective.com/images/random/_${random(693)}.jpg"
+
+#define	stripes
+	<a href="${nextUp}"><img border=0 width=280 height=18
+		alt="${morse(stripe)}" src="${images}/blank.gif"></a>
+
+#define page226
+	<body bgcolor="#5370a2" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/20210330_ouch.jpg"
+		alt="${morse(fact, fans)}"
+		width=1000 height=631 border=0></a>
+	</div>
+
+#define page225
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/20160105.jpg"
+		alt="${morse(why'd she leave?)}"
+		width=522 height=653 border=0></a>
+	<br/>\@zoltandulac
+	</div>
+
+
+#define page224
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/atheist_bus2.jpg"
+		alt="${morse(god, you know it's true)}"
+		width=420 height=187 border=0></a>
+	</div>
+
+#define page223
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/pynf.gif"
+		alt="${morse(pig in the pipe)}"
+		width=555 height=386 border=0></a>
+	</div>
+
+#define page222
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/gonxo.jpg"
+		alt="${morse(later brotherman)}"
+		width=171 height=270 border=0></a>
+	</div>
+
+#define page221
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/bumbershootninja.jpg"
+		alt="${morse(olde school)}"
+		width=182 height=146 border=0></a>
+	</div>
+
+#define page220
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/lots.jpg"
+		alt="${morse(http://www.x-entertainment.com/articles/0744/)}"
+		width=400 height=300 border=0></a>
+	</div>
+
+#define page219
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/Picture26123copy.jpg"
+		alt="${morse(http://members.asianavenue.com/Azn_Cool6/)}"
+		width=217 height=240 border=0></a>
+	</div>
+
+#define page218
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/C59-12-ButlE-B-08.jpg"
+		alt="${morse(who da big man, now?)}"
+		width=400 height=261 border=0></a>
+	</div>
+
+#define page217
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/flipthebird.jpg"
+		alt="${morse(bad 60's jap sex manual)}"
+		width=500 height=407 border=0></a>
+	</div>
+
+#define page216
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/special10.jpg"
+		alt="${morse(cheese)}"
+		width=334 height=500 border=0></a>
+	</div>
+
+#define page215
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/r2234220018.jpg"
+		alt="${morse(http://story.news.yahoo.com/news?g=events/pl/093003election&a=&tmpl=sl&ns=&l=1&e=25&a=0&printer=)}"
+		width=410 height=266 border=0></a>
+	</div>
+
+#define page214
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/approval_alert_graph2.jpg"
+		alt="${morse(idiot)}"
+		width=640 height=433 border=0></a>
+	</div>
+
+#define page213
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/seed_art.jpg"
+		alt="${morse(http://www.lileks.com/picts/fair2004/4.html)}"
+		width=250 height=328 border=0></a>
+	</div>
+
+#define page212
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/skate.jpg"
+		alt="${morse(summer, 2004, stephen's skateboarding experience)}"
+		width=500 height=265 border=0></a>
+	</div>
+
+#define page211
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/solidify.gif"
+		alt="${morse(thanks for the spam)}"
+		width=560 height=400 border=0></a>
+	</div>
+
+#define page210
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/Andy.jpg"
+		alt="${morse(cough, man)}"
+		width=150 height=206 border=0></a>
+	</div>
+
+#define page209
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/uncle2.jpg"
+		alt="${morse(http://www.lileks.com/institute/biglittle/21.html)}"
+		width=397 height=520 border=0></a>
+	</div>
+
+#define page208
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/450Louis_Armand.jpg"
+		width=450 height=342 border=0></a>
+	</div>
+
+#define page207
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/teenager.jpg"
+		alt="${morse(http://seattlepi.nwsource.com/opinion/162066_focus29.html)}"
+		width=110 height=261 border=0></a>
+	</div>
+
+#define page206
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/warning.jpg"
+		width=450 height=112 border=0></a>
+	</div>
+
+#define page205
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/powerpiccolo.gif"
+		width=100 height=96 border=0></a>
+	</div>
+
+#define page204
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/disneyfoia.jpg"
+		width=448 height=102 border=0></a>
+	</div>
+
+#define page203
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/b_300x250_np.gif"
+		width=300 height=250 border=0></a>
+	</div>
+
+#define page202
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/unbalanced.jpg"
+		width=172 height=164 border=0></a>
+	</div>
+
+#define page201
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/img194.jpg"
+		alt="${morse(http://www.midichlorianlori.com/page35.html)}"
+		width=170 height=131 border=0></a>
+	</div>
+
+#define page200
+	<body bgcolor="#009900" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/0__2003310077_00.jpg"
+		alt="${morse(http://www.thesun.co.uk//article/0,,2-2003310256,00.html)}"
+		width=200 height=260 border=0></a>
+	</div>
+
+#define page199
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/_39142518_potaoes_ap300.jpg"
+		alt="${morse(so much for the crops for now on)}"
+		width=300 height=245 border=0></a>
+	</div>
+
+#define page198
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/528.gif"
+		alt="${morse(http://www.rottentomatoes.com/forum/showthread.php?s=&threadid=238636&perpage=25&pagenumber=5)}"
+		width=200 height=150 border=0></a>
+	</div>
+
+#define page197
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/FF_slammer_code2a.gif"
+		alt="${morse(http://www.wired.com/wired/archive/11.07/slammer.html)}"
+		width=150 height=458 border=0></a>
+	</div>
+
+#define page196
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/autopsy.gif"
+		alt="${morse(http://www.pathguy.com/autopsy.htm)}"
+		width=160 height=120 border=0></a>
+	</div>
+
+#define page195
+	<body bgcolor="#000000" link="#000000" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/foxnews.jpg"
+		alt="${morse(http://forums.fark.com/cgi/fark/comments.pl?IDLink=485972)}"
+		width=480 height=360 border=0></a>
+	</div>
+
+#define page194
+	<body bgcolor="#666666" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/needle.gif"
+		alt="${morse(she just fascinates me)}"
+		width=484 height=237 border=0></a>
+	</div>
+
+#define page193
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/iraqtv.jpg"
+		alt="${morse(stolen from http://www.dsltv.nl/ iraq tv feed via netherlands proxy)}"
+		width=375 height=280 border=0></a>
+	</div>
+
+#define page192
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/grounded-sm.gif"
+		alt="${morse(http://awolbush.com/)}"
+		width=528 height=97 border=0></a>
+	</div>
+
+#define page191
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/bbc_wings.jpg"
+		alt="${morse(http://www.meldrum.co.uk/mhp/features/kif_1.html)}"
+		width=320 height=240 border=0></a>
+	</div>
+
+#define	page190
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/1820803.gif"
+		alt="${morse(suckers)}"
+		width=275 height=257 border=0></a>
+	</div>
+
+#define	page189
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/sch-pcb-final-withfly.gif"
+		alt="${morse(http://www.conceptlab.com/fly/index.html)}"
+		width=596 height=329 border=0></a>
+	</div>
+
+#define	page188
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/pth.jpg"
+		alt="${morse(what an asshole)}"
+		width=625 height=432 border=0></a>
+	</div>
+
+#define	page187
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/google_error.gif"
+		alt="${morse(something you don't see everyday..)}"
+		width=723 height=300 border=0></a>
+	</div>
+
+#define	page186
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/endmugs4.jpg"
+		alt="${morse(http://www.thesmokinggun.com/archive/endmugs4.html)}"
+		width=428 height=321 border=0></a>
+	</div>
+
+#define	page185
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/iao-original-logo.jpg"
+		alt="${morse(original image from darpa.mil/ioa)}"
+		width=318 height=318 border=0></a>
+	</div>
+
+#define	page184
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/tombstone2.jpg"
+		alt="${morse(swiped from tonypiercecom, who swiped it from somewhere else)}"
+		width=359 height=250 border=0></a>
+	</div>
+
+#define	page183
+	<body bgcolor="#111111" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/frogman.gif"
+		alt="${morse(http://o-matic.com/pix/index.cgi)}"
+		width=102 height=88 border=0></a>
+	</div>
+
+#define	page182
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/leucot1.gif"
+		alt="${morse(yummy)}"
+		width=300 height=170 border=0></a>
+	</div>
+
+#define	page181
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/slashdotted.jpg"
+		alt="${morse(sez it all)}"
+		width=216 height=247 border=0></a>
+	</div>
+
+#define	page180
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/cassini_saturn.jpg"
+		alt="${morse(cassini's approach to saturn - 177 million miles away - 1 nov 2002)}"
+		width=192 height=260 border=0></a>
+	</div>
+
+#define	page179
+	<body bgcolor="#ffffff" link="#000000" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/alien_moon.gif"
+		alt="${morse(http://www.weeklyworldnews.com/features/aliens_story.cfm?instanceid=47839)}"
+		width=200 height=250 border=0></a>
+	</div>
+
+#define	page178
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/war.076.gif"
+		alt="${morse(http://www.mnftiu.cc)}"
+		width=285 height=171 border=0></a>
+	</div>
+
+#define	page177
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/kudzilla.jpg"
+		alt="${morse(http://www.sunherald.com/mld/sunherald/news/weird_news/4043913.htm)}"
+		width=290 height=350 border=0></a>
+	</div>
+
+#define	page176
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/dalee.6761.jpg"
+		alt="${morse(http://images.burningman.com/index.cgi?image=6761&q_year=2002&q_photog=&q_keyword=&q_category=)}"
+		width=400 height=300 border=0></a>
+	</div>
+
+#define	page175
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/achewood.gif"
+		alt="${morse(www.achewood.com)}"
+		width=230 height=216 border=0></a>
+	</div>
+
+#define	page174
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/snow05.jpg"
+		alt="${morse(http://www.flasher.com/twiga/mercury/snow/snow05.html)}"
+		width=320 height=240 border=0></a>
+	</div>
+
+#define	page173
+	<body bgcolor="#000000" link="#000000" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/pendletons.jpg"
+		alt="${morse(http://www.immerrocknroll.de/bandfoto1.html)}"
+		width=339 height=397 border=0></a>
+	</div>
+
+#define	page172
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/winnt.jpg"
+		alt="${morse(just come rape me now)}"
+		width=640 height=480 border=0></a>
+	</div>
+
+#define	page171
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/locust.jpg"
+		alt="${morse(a plague of the fuckers)}"
+		width=180 height=210 border=0></a>
+	</div>
+
+#define	page170
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/cows.gif"
+		alt="${morse(honest to god)}"
+		width=400 height=365 border=0></a>
+	</div>
+
+#define	page169
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/eeexcellent.jpg"
+		alt="${morse(ratemykitten.com)}"
+		width=502 height=397 border=0></a>
+	</div>
+
+#define	page168
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/dirtybomb.jpg"
+		alt="${morse(oopsie)}"
+		width=516 height=299 border=0></a>
+	</div>
+
+#define	page167
+	<body bgcolor="#ffffff" link="#ffffff" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/OWNER1.jpg"
+		alt="${morse(http://www.savannahsays.com/kizombe.htm)}"
+		width=399 height=546 border=0></a>
+	</div>
+
+#define	page166
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/happymess.gif"
+		alt="${morse(dunno)}"
+		width=352 height=414 border=0></a>
+	</div>
+
+#define	page165
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/reflectrouting.gif"
+		alt="${morse(grc.com)}"
+		width=511 height=388 border=0></a>
+	</div>
+
+#define	page164
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/figure6-vs.gif"
+		alt="${morse(http://www.theatlantic.com/issues/2002/04/rauch.htm)}"
+		width=420 height=302 border=1></a>
+	</div>
+
+#define	page163
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/yearslater.jpg"
+		alt="${morse(http://www.catenema.com/)}"
+		width=500 height=469 border=1></a>
+	</div>
+
+#define	page162
+	<body bgcolor="#ffffff" link="#ffffff" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/woman_sm.gif"
+		alt="${morse(http://www2.active.ch/%7Egerstei/main.en.html)}"
+		width=500 height=382 border=1></a>
+	</div>
+
+#define	page161
+	<body bgcolor="#ffffff">
+	<center>
+	<table border=0 cellpadding=0 cellspacing=0>
+	<tr><td>
+	<table border=0 cellpadding=0 cellspacing=0>
+		<tr> 
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_01.gif" width=370 height=70 border="0"></a></td>
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_02.gif" width=66 height=24 border="0"></a></td>
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_03.gif" width=61 height=24 border="0"></a></td>
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_04.gif" width=60 height=24 border="0"></a></td>
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_05.gif" width=70 height=24 border="0"></a></td>
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_06.gif" width=71 height=24 border="0"></a></td>
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_07.gif" width=68 height=24 border="0"></a></td>
+			<td valign=top> <a href="${nextUp}"><img src="${images}/apugima/top_08.gif" width=14 height=70 border="0"></a></td>
+		</tr>
+	</table>
+	</td></tr>
+	<tr><td>
+	<a href="${nextUp}"><img src="${images}/apugima/menu.gif" width="779" height="18" border="0"></a>
+	</td></tr></table>
+	<table width="780" border="1" bgcolor="#FFFFFF" cellspacing="0">
+	<tr> 
+		<td width="100%" align="center" valign="top">
+			<table width="100%" border="0" height="86" cellspacing="0">
+				<tr> 
+				<td width="2%" height="19"><font color="#000000"><b>::</b></font></td>
+				<td height="19" colspan="2"><a href="${nextUp}">
+				<font color="#000000">[????ȿ ?̾߱? !! ]</font></a></td>
+				</tr>
+				<tr> 
+				<td width="2%" height="24"><font color="#000000"><b>::</b></font></td>
+				<td height="24" colspan="2"><a href="${nextUp}"> <font color="#000000"><b><font color="#0000FF">[?????? 
+					????!! ?̺?Ʈ ?ǽ? !!]</font></b></font></a></td>
+				</tr>
+				<tr> 
+				<td width="2%" height="20"><font color="#000000"><b>::</b></font></td>
+				<td height="24" colspan="2"><a href="${nextUp}"> <font color="#000000">[??Ǫ???? 
+					???? ???? ź??�� ?????մϴ?.]</font></a></td>
+				</tr>
+				<tr> 
+				<td width="2%"><font color="#000000"><b>::</b></font></td>
+				<td height="24" colspan="2"><a href="${nextUp}"> <font color="#000000">[LG 
+					,????ī?? 3???? (5?????̻?) ?????? ?Һ? ????]</font></a></td>
+				</tr>
+				<tr> 
+				<td width="2%" height="8"><font color="#000000"><b>::</b></font></td>
+				<td width="73%" height="24" ><a href="${nextUp}"> <font color="#000000">[SIDESWIPE 
+					?? ???? ?? ��?պ??? ????��??!!]</font></a></td>
+				</tr>
+			</table>
+			</td></tr><tr><td>
+			<table width="100%" border="0" cellspacing="0">
+			<tr> 
+				<td width="100%" height="20" align="center">
+					<table width="90%" border="0" cellspacing="0">
+					<tr> 
+						<td width="100%"> 
+						<div align="center"><a href="${nextUp}"><img src="${images}/apugima/han.gif" width="135" height="31" border="0"></a> 
+							<a href="${nextUp}"><img src="${images}/apugima/devabenner.gif" width="135" height="31" border="0"></a> 
+							<a href="${nextUp}"><img src="${images}/apugima/aminogenbenner.gif" width="135" height="31" border="0"></a> 
+							<a href="${nextUp}"><img src="${images}/apugima/healthsaybenner.gif" width="135" height="31" border="0"></a></div>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+			</table>
+			</td></tr><tr><td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="left" height="43" bgcolor="#FFFFFF">
+				<tr> 
+				<td align="center" height="26" valign="bottom" width="767"><font color="#000000"><a href="${nextUp}"> <b>?Ǹſ?????</b></a><b> 
+					- <a href="${nextUp}"> ?븮��????</a>- 
+					<a href="${nextUp}"> ??Ǫ????! 
+					?ȳ?</a> - <a href="${nextUp}"> ???۾ȳ?</a> 
+					- <a href="${nextUp}"> ????��?? 
+					??ȣ��å</a> - <a href="${nextUp}"> ?????ȳ?</a> 
+					- <a href="${nextUp}"> ???»?</a> 
+					</b></font></td>
+				</tr>
+				<tr> 
+				<td align="center" height="26" valign="bottom" width="767"> 
+					<table width="755" border="0" cellspacing="0" align="left">
+					<tr> 
+						<td width="12%"> 
+						<div align="center"></div>
+						</td>
+						<td width="75%"> 
+						<div align="center"><font color="#000000"><br>
+							??ȣ : (??) ??Ǫ?����??? ???? : <a href="mailto:cyber@sideswipe.com">cyber@sideswipe.com</a></font> 
+							<font color="#000000">å???? : ?ڴ???</font> <font color="#000000">?????ڵ??Ϲ?ȣ 
+							: 124-78-60281<br>
+							?????? ???ʱ? ???ʵ? 1319-13 ???? Ÿ?????? 201 TEL.02-2698-1050 ,02-2869-1015 
+							FAX : 02-2648-6342 <br>
+							<font color="#727171"><font color="#000000"><font color="#000000">?????Ǹž??Ű??? 
+							�� 10678 ȣ</font>. Copyright ?? ${_current_year} </font></font><font color="#000000" face="????">SIDESWIPE.COM</font> 
+							<font color="#000000">All rights severed.</font></font></div>
+						</td>
+					</tr>
+					</table>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	</table>
+	</center>
+
+#define	page160
+	<body bgcolor="#e5221c" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/cocakarma.gif"
+		alt="${morse(http://www.guerrillanews.com/cocakarma)}"
+		width=144 height=387 border=0></a>
+	</div>
+
+#define	page159
+	<body bgcolor="#111199" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/micnek.jpg"
+		alt="${morse(just because they look stupid..)}"
+		width=206 height=217 border=0></a>
+	</div>
+
+#define	page158
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/dogrun1.gif"
+		alt="${morse(woof)}"
+		width=200 height=35 border=0></a><p>
+	<a href="${nextUp}"><img
+		src="${images}/dogrun1.gif"
+		alt="${morse(woof)}"
+		width=200 height=35 border=0></a>
+	<a href="${nextUp}"><img
+		src="${images}/dogrun1.gif"
+		alt="${morse(woof)}"
+		width=200 height=35 border=0></a>
+	<a href="${nextUp}"><img
+		src="${images}/dogrun1.gif"
+		alt="${morse(woof)}"
+		width=200 height=35 border=0></a><p>
+	<a href="${nextUp}"><img
+		src="${images}/dogrun1.gif"
+		alt="${morse(woof)}"
+		width=200 height=35 border=0></a>
+	</div>
+
+#define	page157
+	<body bgcolor="#dedede" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/lifeturns.gif"
+		alt="${morse(life turns man up and down)}"
+		width=300 height=462 border=1></a>
+	</div>
+
+#define	page156
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/rm_star.jpg"
+		alt="${morse(plonk)}"
+		width=750 height=563 border=1></a>
+	</div>
+
+#define	page155
+	<body bgcolor="#000000" link="#000000"  ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/ashcroft_dork.jpg"
+		alt="${morse(homeland security?)}"
+		width=174 height=237 border=1></a>
+	</div>
+
+#define	page154
+	<body bgcolor="#eecccc" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/shirt.gif"
+		alt="${morse(erik visser)}"
+		width=600 height=420 border=1></a>
+	</div>
+
+#define	page153
+	<body bgcolor="#0000dd" link="#000000" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/yl_dis_gates.jpg"
+		alt="${morse(dare to dream it)}"
+		width=432 height=324 border=0></a>
+	</div>
+
+#define	page152
+	<body bgcolor="#0000dd" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/gameboy.gif"
+		alt="${morse(kid?  what kid?)}"
+		width=580 height=50 border=0></a>
+	</div>
+
+#define	page151
+	<body bgcolor="#dddddd" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/motionproc.gif"
+		alt="${morse(please wait)}"
+		width=431 height=23 border=0></a>
+		<br>
+		<b>Processing please wait..........</b>
+	</div>
+
+#define	page150
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/baddog.jpg"
+		alt="${morse(BAD DOG!)}"
+		width=367 height=261 border=0></a>
+	</div>
+
+#define	page150
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/baddog.jpg"
+		alt="${morse(BAD DOG!)}"
+		width=367 height=261 border=0></a>
+	</div>
+
+#define	page149
+	<body bgcolor="#de3ede" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/circle_txt.gif"
+		alt="${morse(or something)}"
+		width=400 height=200 border=0></a>
+	</div>
+
+#define	page148
+	<body bgcolor="#82746a" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/happyburqas.jpg"
+		alt="${morse(glee - 20 Nov 2001)}"
+		width=450 height=285 border=1></a>
+	</div>
+
+#define	page147
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/bra2.gif"
+		alt="${morse(tits!)}"
+		width=387 height=302 border=1></a>
+	</div>
+
+#define	page146
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/rent.jpg"
+		alt="${morse(the 2 irishwomen and their expenses)}"
+		width=400 height=280 border=1></a>
+	</div>
+
+#define	page145
+	<body bgcolor="#000000" link="#000000" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/nortel_afterparty2.jpg"
+		alt="${morse(nortel, fucked)}"
+		width=432 height=224 border=1></a>
+	</div>
+
+#define	page144
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/speech.jpg"
+		alt="${morse(yeah, right)}"
+		width=200 height=292 border=0></a>
+	</div>
+
+#define	page143
+	<body bgcolor="#f0f0f2" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/sideswipe.jpg"
+		alt="${morse(and that's what it's all about)}"
+		width=338 height=600 border=0></a>
+	</div>
+
+#define	page142
+	<body bgcolor="#ffffff" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/buh.gif"
+		alt="${morse(buh)}"
+		width=126 height=62 border=0></a>
+	</div>
+
+#define	page141
+	<body bgcolor="#ffffff" link="#000000" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/stewart.jpg"
+		alt="${morse(not a good sign for my company)}"
+		width=175 height=185 border=0></a>
+	</div>
+
+#define	page140
+	<body bgcolor="#333333" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/jesse.jpg"
+		alt="${morse(about fucking time, BOY)}"
+		width=267 height=167 border=0></a>
+	<p>
+	<font color="#dede33" size="2" face="times">About fucking time</font>
+	</div>
+
+#define	page139
+	<body bgcolor="#dede33" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/1040.gif"
+		alt="${morse(bushwacked)}" width=492 height=872 border=1></a>
+	</div>
+
+#define	page138
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/msnet.jpg"
+		alt="${morse(marks the spot)}" width=164 height=119 border=0></a>
+	</div>
+
+#define	page137
+	<body bgcolor="#FFFFFF" background="${images}/treas.gov/bk.gif" vlink="#0033CC">
+	<center>
+	<table border="0" width="641">
+	  <tr>
+	    <td colspan="2"><img src="${images}/treas.gov/grnbanner.gif" width="308" height="79" alt="U.S. Treasury Banner Image"></td>
+	    <td width="8"></td>
+	    <td width="311" align="right">
+		&nbsp;
+	    </div></td>
+	  </tr>
+	  <tr>
+	    <td colspan="4" valign="middle" align="center"><img src="${images}/treas.gov/greenbldg.gif"
+	    width="433" height="164" alt="U.S. Treasury Building"></td>
+	  </tr>
+	  <tr>
+	    <td colspan="4" align="right">
+	    <br>
+	    <br>
+	    <br>
+	    <a href="${nextUp}"><font size="6" color="#ff3333">
+	    <b>Taxpayer Rebate Alert!</b>
+	    </font></a>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td colspan="4">
+	    <br>
+	    <br>
+	    <br>
+		<font size="1" color="#333333">
+		<b>Warning:</b> You are entering an Official United Sideswipe Government System, which may be used only for
+		authorized purposes. The Government may monitor and audit usage of this system, and all persons are
+		hereby notified that use of this system constitutes consent to such monitoring and auditing. Unauthorized
+		attempts to upload information and/or change information on these web sites are strictly prohibited and are
+		subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 U.S.C. Sec.1001 and
+		1030. 
+		</font>
+	    </td>
+	  </tr>
+	</table>
+	</center>
+
+#define	page136
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/lori-july4th.jpg"
+		alt="${morse(nice necklace, doris)}" width=399 height=282 border=0></a>
+	</div>
+
+#define	page135
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/operationsplatform_pyr.gif"
+		alt="${morse(days done)}" width=350 height=266 border=0></a>
+	</div>
+
+#define	page134
+	<body bgcolor="#000000" link="#000000" ${randImg}>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/dick.jpg"
+		alt="${morse(what tristan sez..)}" width=161 height=178 border=0></a>
+	</div>
+
+#define	page133
+	<body bgcolor="#000000" link="#000000" background="${images}/bad_stars.gif">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/iss_anim.gif"
+		alt="${morse(thar she blows)}" width=100 height=114 border=0></a>
+	</div>
+
+#define	page132
+	<body bgcolor="#000000" link="#000000">
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/iran-e-azad-org.gif"
+		alt="${morse(she's a witch!)}" width=450 height=200 border=0></a>
+	</div>
+
+#define	page131
+	<body bgcolor="#000000" link="#000000">
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/radiovalve.gif"
+		alt="${morse(the end)}" width=621 height=463 border=0></a>
+	</div>
+
+#define	page130
+	<body bgcolor="#33dd33" link="#ffffff" ${randImg}>
+	<div align=center>
+	<table border=0 bgcolor="#333333" cellpadding="5" cellspacing="0"><tr><td>
+	<font color="#cfcfcf" size="3">
+<pre>
+From: matt nebriman <a href="${nextUp}"><font color="#ffffff">[mailto:mattdude76@XXXX.com]</font></a>
+Sent: Thursday, May 24, 2001 1:03 AM
+To: christine@YYYY.com
+Subject: Re: Your account at YYYY
+
+--- christine <christine@YYYY.com> wrote:
+> 
+> Hi there,
+> 
+> Your YYYY account has been closed.  Your
+> reviews of
+> "jdksaluidosaugifuafidfsiafjd" are not constructive
+> reviews, and do not
+> contribute positively towards the goal of our site.
+> We're about supporting
+> emerging artists with constructive feedback.
+> 
+> Thanks,
+> 
+> 
+> 
+> Christine
+> christine@YYYY.com
+
+Dear Christine;
+ I apologize for what must appear to be a childish act
+on my part. However, I think I can explain what happened. 
+
+ I have had a virus on my computer for quite some time
+now which targets my ASCII controller or something or
+other (that's what my technician says anyway).
+Apparently it messes with my character map and
+converts everything I type into nonsense. The bad
+thing is, I never know when it is doing this until
+later, because as I type it doesn't affect anything.
+Only after I save does the conversion take place. 
+
+ I don't know a lot about computers, but I do know
+that it's a virus that stays resident in my master
+boot record, which makes it virtually impossible to
+get rid of unless I reformat my hard drive. But until
+I get a reliable means of backing up all my files, I
+have to live with it. 
+
+ It's not a continuous symptom of the virus, either.
+Neither I nor my technician know what causes it to pop
+up from time to time, but he has found that if I
+reboot the computer to C: prompt and do a "scanreg
+/fix" it seems to make the symptom disappear for awhile. 
+
+ Obviously, I had NO idea that I was writing such
+nonsense, and for the confusion, I deeply apologize. I
+can understand why you think the way you do, but I
+assure you I had NO intention of giving bogus reviews
+to ANYONE for ANY reason. 
+
+ I ask that you please consider my awkward and, I
+suppose, unique situation, give me the benefit of the
+doubt, and allow me to continue posting my songs to
+your wonderful site. I love nothing more than
+listening to all those fabulous bands out there in the
+hopes of one day helping one become the next big act!
+(And I still wouldn't mind a shot at that myself, too,
+I admit;]).
+
+ Thanks again for your time, and once again, I
+apologize for the confusion. I'll get this taken care
+of right away so as not to let this happen again!
+
+Sincerely,
+M.D.B.
+</pre>
+	</font>
+	</td></tr></table>
+	</div>
+
+#define	page129
+	<body bgcolor="#33dd33" link="#ffffff">
+	<div align=center>
+	<table border=0 height="90%"><tr><td>
+	<a href="${nextUp}"><img
+		src="${images}/epu.gif"
+		alt="${morse(let's all plunder the future!)}" width=800 height=800 border=0></a>
+	</td></tr></table>
+	</div>
+
+#define	page128
+	<body bgcolor="#ffffff" link="#ffffff">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/nixp.gif"
+		alt="${morse(we really, really give a shit, bill)}" width=337 height=144 border=0></a>
+	</div>
+
+#define	page127
+	<body bgcolor="#000000" link="#000000" ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 cellpadding=5 cellspacing=5 bgcolor="#99ccee"><tr><td>
+	<pre>
+	<font size="2" face="times">
+     <a href="${nextUp}">You Have Shown Yourself To Be A:</a>
+      
+     [ ] Clueless Newbie
+     [X] Lamer
+     [ ] Moderator
+     [ ] Wannabe-gangstah
+     [ ] Reactionary
+     [ ] Pervert
+     [ ] Geek
+     [ ] Pre-Pubescent
+     [ ] Nerd
+     [ ] Elvis
+     [ ] Fed
+     [ ] Slut
+     [ ] Freak
+     [X] Liar
+     [ ] Loser
+     [ ] Cryogenic
+     [ ] Scammer
+     [X] Spammer
+     [X] Moron
+     [ ] Asshole
+     [ ] Jerk
+     [ ] Dickhead
+     [ ] Nazi pig
+     [X] Monkey spanker
+     [ ] Idiot with CAPS LOCK button depressed forever
+     [ ] Self-righteous prick
+     [ ] Fundamentalist christian cretin
+      
+     You Are Being Flamed Because :
+      
+     [X] You suck
+     [ ] You make no sense
+     [ ] You said "me too" to something
+     [ ] You posted to 10 or more groups
+     [ ] You started an off-topic thread
+     [ ] I don't like your tone of voice
+     [ ] You are acting like a slut
+     [ ] Your sig/alias is retarded
+     [ ] I think you might be a fed
+     [X] You're worthless
+     [ ] You piss me off
+     [ ] You whine like a damn toddler
+     [ ] You have the grammar of an inbred West Virginian
+     [ ] I saw a wanted poster with your face on it in the sysops' office
+     [ ] You have no clue whatsoever about this topic and still posted
+     [ ] You posted a "HOLIER THAN THOU" message
+     [ ] You posted warez in pieces LESS than 5000 lines
+     [ ] You posted something asking for warez sites
+     [ ] You quoted an ENTIRE post in your reply
+     [ ] You continued a long, stupid thread
+     [X] You posted a blatently obvious lie
+     [ ] You posted pretending to be someone famous 
+     [ ] You replied to the above message type believing it was someone famous
+     [ ] You posted a stupid pyramid money making scheme & claimed it was legal
+     [ ] You posted in ElItE CaPiTaLs because you think that makes you cool
+     [ ] You brag about things that never happened
+     [ ] You made up slang then used it in a message
+     [ ] You posted a make money quick scam
+     [ ] You started a thread that everybody is going to cross post flames to
+     [ ] You're so uniquely lost I had to create a new category just for you
+     [ ] You didn't do anything specific, but appear to be so generally
+         worthless that you are being flamed anyway
+     [ ] You reek of someone who learned all he knows about computers
+         from the "Quick Study" videos
+     [ ] You asked another stupid question
+     [ ] You posted the same article more than twice in a row to the SAME
+             NEWSGROUP within five minutes of each other 
+      
+     To Repent, You Must :
+      
+     [X] Stop masturbating for a week
+     [ ] Actually post something relevant
+     [ ] Give up your ISP account
+     [ ] Read the FAQ
+     [ ] Slice your wrist
+     [ ] Do 200 pushups non-stop
+     [ ] Realise that you don't know shit about the subject of this group
+     [ ] RTFM
+     [ ] Watch at least 25 episodes of Beverly Hills 90210 continuously
+     [ ] Be the PR guy for Depends Undergarment
+     [X] Bust up your modem with a hammer and eat it
+     [ ] Jump into a bathtub while holding your monitor
+     [X] Tell your Mommy to up your medication
+     [ ] Be the guest of honor in alt.flame for a month
+     [ ] Hang yourself with some SCSI cables
+     [ ] Take up Bill Gates' cock and cum in the name of Microsoft
+     [ ] Get off the 'Net and go back to your Sega Genesis
+     In Closing, I'd Like to Say :
+      
+     [X] Blow me
+     [X] Get a life
+     [ ] Get stuffed
+     [ ] Eat shit
+     [ ] You need to get laid
+     [X] Shut yer mouth from now on
+     [X] Fuck off
+	</font>
+	</pre>
+</td></tr></table>
+	</div>
+
+#define	page126
+	<body bgcolor="#000000" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/fun.gif"
+		alt="${morse(indeed we do)}" width=545 height=232 border=0></a>
+	</div>
+
+#define	page125
+	<body bgcolor="#000000" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/fighter.top.jpg"
+		alt="${morse(go wang wei, go wang wei!)}" width=280 height=170 border=0></a>
+	</div>
+
+#define	page124
+	<body bgcolor="#000000" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/mast.gif"
+		alt="${morse(Scientifically test your children for signs of Masturbation.)}" width=184 height=219 border=0></a>
+	</div>
+
+#define	page123
+	<body bgcolor="#ffffff" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/herkie.gif"
+		alt="${morse(give me an S!)}" width=106 height=98 border=0></a>
+	</div>
+
+#define	page122
+	<body bgcolor="#000000" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<font color="#ffffff" size="5">
+	spork ...
+	<a href="${nextUp}"><img
+		align="middle"
+		src="${images}/spork2.jpg"
+		alt="${morse(the other white fork)}" width=93 height=424 border=0></a>
+	... the other white fork.
+	</font>
+	</div>
+
+#define	page121
+	<body bgcolor="#777777" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/2001Feb12.jpg"
+		alt="${morse(couldn't leave well enough alone)}" width=492 height=392 border=0></a>
+	</div>
+
+#define	page120
+	<body bgcolor="#ffffff" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/time.gif"
+		alt="${morse(wanted: somebody)}" width=308 height=127 border=0></a>
+	</div>
+
+#define	page119
+	<body bgcolor="#FFCC00" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/16.gif"
+		alt="${morse(before the horse)}" width=446 height=278 border=0></a>
+	</div>
+
+#define	page118
+	<body bgcolor="#000000" link="#000000" ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/Bombsquad.jpg"
+		alt="${morse(pow)}" width=607 height=394 border=0></a>
+	</div>
+
+#define	page117
+	<body bgcolor="#000000" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/tucker_obit.gif"
+		alt="${morse(too fucking soon, son)}" width=391 height=600 border=0></a>
+	</div>
+
+#define	page116
+	<body bgcolor="#ffffff" link="#000000" ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/riceboy_11.jpg"
+		alt="${morse(riceboypage.com)}" width=377 height=214 border=0></a>
+	</div>
+
+#define	page115
+	<body bgcolor="#ffffff" link="#000000">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/ginger15.gif"
+		alt="${morse(more dorks on scooters)}" width=305 height=712 border=0></a>
+	</div>
+
+#define	page114
+	<body bgcolor="#333333" link=#000000 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}">
+	<font color="#ffffff">
+	This computer system is for authorized users only. Individuals using
+	this system without authority or in excess of their authority are subject
+	to having all their activities on this system monitored and recorded or
+	examined by any authorized person, including law enforcement, as system
+	personnel deem appropriate.  In the course of monitoring individuals
+	improperly using the system or in the course of system maintenance, the
+	activities of authorized users may also be monitored and recorded. Any
+	material so recorded may be disclosed as appropriate. Anyone using this
+	system consents to these terms. 
+	<p>
+	FURTHERMORE...
+	<p>
+	This is a private system.
+	<p>
+	An expectation of civil privacy is expected for this device regardless of
+	use in crowds, private and public locations.  Unauthorized use, monitoring,
+	hacking, disassembly, reverse engineering, illicit possession or confiscation
+	without written warrent will be prosecuted as theft and/or violation of
+	civil rights.
+	<p>
+	All educational institutions, technitions & service providers, members of
+	law enforcement, agents of government and corporations must make their presence
+	known and by what legal statute upon attempting to enter this device or
+	obtain access to it. The Rights of the above during access or possession
+	will be strictly limited to the service or mandate extended to them by the
+	operator of this device.
+	<p>
+	Any data, evidence or other information gathered other than what was reasonably
+	expected or documented by the above will be considered illegally obtained.
+	This device utilizes legally obtained encryption to enforce civil rights.
+	All encrypted files are considered private documents and are held to the
+	standard of paper documents sealed in a lead container, which is then placed
+	in a safe, which is kept in a confidential safe place, the safe door closed
+	& locked and the combination is only known to the legitimate owner of the
+	document. Use of system generated data, (logs, cookies, etc) are governed
+	by the legitimate owner of the device Downloaded data is owned by or liable
+	to the source that generated them.
+	<p>
+	Theft of service from this device and denial of service of this device will
+	be proscecuted. The legal operator of this device refutes all legal liability
+	of binary executable code contained with this device this superceding any
+	unilateral legal clause in any license from Microsoft. 
+	All files ever deleted, placed in disposal (trashcan), temporary and transient
+	files (cookies, temporary files, buffer contents) ever contained within
+	this device are treated as a permanent erasure of that object, unalterable
+	and irrecoverable by mechanical or other means; somehow recovering erased
+	data by any means is legally binding and consenting that the data was never
+	on the device but has magically appeared in it. The terms of this agreement
+	and your Rights to/on this device may be changed at any time without notice,
+	by the legitimate operator of the device or his/her legal advisor.
+	</font>
+		</a>
+	</div>
+
+#define	page113
+	<body bgcolor="#0C0BA4" link=#000000 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/letsbspammers.gif"
+		alt="${morse(The Truth About Futures Trading)}" width=314 height=176 border=0></a>
+	</div>
+
+#define	page112
+	<body bgcolor=#ffffff link=#000000 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/volvo.jpg"
+		alt="${morse(kinda boxy..)}" width=300 height=279 border=4></a>
+	</div>
+
+#define	page111
+	<body bgcolor=#ffffff link=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/inspected.jpg"
+		alt="${morse(found in my coat - honest to god)}" width=450 height=319 border=0></a>
+	</div>
+
+#define	page110
+	<body bgcolor=#ffffff link=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/fmap.gif"
+		alt="${morse(that was the day)}" width=370 height=130 border=0></a>
+	</div>
+
+#define	page109
+	<body bgcolor=#ffffff link=#000000 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/fs-dry01.jpg"
+		alt="${morse(who's that scarey man?)}" width=224 height=265 border=0></a>
+	</div>
+
+#define	page108
+	<body bgcolor=#ffffff link=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/jettrails.jpg"
+		alt="${morse(we've a right to know)}" width=450 height=365 border=0></a>
+	</div>
+
+#define	page107
+	<body bgcolor=#000000 link=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/rocket.gif"
+		alt="${morse(rocket's red glare...)}" width=300 height=100 border=0></a>
+	</div>
+
+#define	page106
+	<body bgcolor=#ffffff link=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/wow.jpg"
+		alt="${morse(war of the wurlds)}" width=440 height=550 border=0></a>
+	</div>
+
+#define	page105
+	<body bgcolor=#ffffff link=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<font size=6>
+	<a href="${nextUp}">the</a> internet <a href="${nextUp}">just isn't what it will be</a>.
+	</font>
+	</div>
+
+#define	page104
+	<body bgcolor=#ffffff link=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/agp-054.gif"
+		alt="${morse(analysis)}" width=203 height=504 border=0></a>
+	</div>
+
+#define	page103
+	<body bgcolor=#ffffff link=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/yo.jpg"
+		alt="${morse(think your neighborhood's tough?  huh?  doya?)}" width=550 height=263 border=0></a>
+	<p>
+	<b>
+	think your neighborhood's tough?  huh?  doya?
+	<br>
+	you ain't been to woodland
+	</b>
+	</div>
+
+#define	page102
+	<body bgcolor=#ffffff link=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/warning_defect.jpg"
+		alt="${morse(don't use)}" width=350 height=364 border=0></a>
+	</div>
+
+#define	page101
+	<body bgcolor=#ffffff link=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/huh.gif"
+		alt="${morse(please try to pay attention)}" width=277 height=131 border=0></a>
+	</div>
+
+#define	page100
+	<body bgcolor=#ffffff link=#ffffff >
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/oynassk7w.jpg"
+		alt="${morse(go roger, go roger!)}" width=266 height=370 border=0></a>
+	</div>
+
+#define	page99
+	<body bgcolor=#333333 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/booth.jpg"
+		alt="${morse(don't you fucking look at me!)}" width=460 height=309 border=0></a>
+	</div>
+
+#define	page98
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/nakednano.gif"
+		alt="${morse(10000101011011)}" width=576 height=163 border=0></a>
+	</div>
+
+#define	page97
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/fbifiles.gif"
+		alt="${morse(for god's sake,  do it!)}" width=460 height=55 border=0></a>
+	</div>
+
+#define	page96
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/hometaping.gif"
+		alt="${morse(for god's sake, don't do it!)}" width=250 height=142 border=0></a>
+	</div>
+
+#define	page95
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/airfun.jpg"
+		alt="${morse(motherfuck delta airlines and the horse they rode in on)}" width=200 height=294 border=0></a>
+	</div>
+
+#define	page94
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/ufo14.gif"
+		alt="${morse(wooo  ooooo oooo)}" width=120 height=126 border=0></a>
+	</div>
+
+#define	page93
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/faxlabelcombz.gif"
+		alt="${morse(bm -v- bz)}" width=468 height=396 border=0></a>
+	</div>
+
+#define	page92
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/465hot.gif"
+		alt="${morse(innovation, explication)}" width=257 height=339 border=0></a>
+	</div>
+
+#define	page91
+	<body bgcolor=#025ed1 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/halo.gif"
+		alt="${morse(SPF90)}" width=256 height=256 border=0></a>
+	</div>
+
+#define	page90
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff>
+<a href="${nextUp}">
+<font size=5 color="#ffffff" face=ariel>HISTORY OF THE WORLD</font></a>
+<p>
+<blockquote>
+<font size=4 face=ariel color="#ffffff">
+	<b><font color="#cc3333">2.5 million B.C.</b>: OOG the Open Source Caveman develops the axe and releases it under the GPL. The axe
+	quickly gains popularity as a means of crushing moderators' heads. 
+	<p>
+	<b><font color="#cc3333">100,000 B.C.</font></b>: Man domesticates the AIBO. 
+	<p>
+	<b><font color="#cc3333">10,000 B.C.</font></b>: Civilization begins when early farmers first learn to cultivate hot grits. 
+	<p>
+	<b><font color="#cc3333">3000 B.C.</font></b>: Sumerians develop a primitive cuneiform perl script. 
+	<p>
+	<b><font color="#cc3333">2920 B.C.</font></b>: A legendary flood sweeps Slashdot, filling up a Borland / Inprise story with hundreds of offtopic
+	posts. 
+	<p>
+	<b><font color="#cc3333">1750 B.C.</font></b>: Hammurabi, a Mesopotamian king, codifies the first EULA. 
+	<p>
+	<b><font color="#cc3333">490 B.C.</font></b>: Greek city-states unite to defeat the Persians. ESR triumphantly proclaims that the Greeks "get it". 
+	<p>
+	<b><font color="#cc3333">399 B.C.</font></b>: Socrates is convicted of impiety. Despite the efforts of freesocrates.com, he is forced to kill himself
+	by drinking hemlock. 
+	<p>
+	<b><font color="#cc3333">336 B.C.</font></b>: Fat-Time Charlie becomes King of Macedonia and conquers Persia. 
+	<p>
+	<b><font color="#cc3333">4 B.C.</font></b>: Following the Star (as in hot young actress) of Bethelem, wise men travel from far away to troll for
+	baby Jesus. 
+	<p>
+	<b><font color="#cc3333">A.D. 476</font></b>: The Roman Empire BSODs. 
+	<p>
+	<b><font color="#cc3333">A.D. 610</font></b>: The Glorious MEEPT!! founds Islam after receiving a revelation from God. Following his
+	disappearance from Slashdot in 632, a succession dispute results in the emergence of two troll factions: the
+	Pythonni and the Perliites. 
+	<p>
+	<b><font color="#cc3333">A.D. 800</font></b>: Charlemagne conquers nearly all of Germany, only to be acquired by andover.net. 
+	<p>
+	<b><font color="#cc3333">A.D. 874</font></b>: Linus the Red discovers Iceland. 
+	<p>
+	<b><font color="#cc3333">A.D. 1000</font></b>: The epic of the Beowulf Cluster is written down. It is the first English epic poem. 
+	<p>
+	<b><font color="#cc3333">A.D. 1095</font></b>: Pope Bruce II calls for a crusade against the Turks when it is revealed they are violating the GPL.
+	Later investigation reveals that Pope Bruce II had not yet contacted the Turks before calling for the crusade. 
+	<p>
+	<b><font color="#cc3333">A.D. 1215</font></b>: Bowing to pressure to open-source the British government, King John signs the Magna Carta,
+	limiting the British monarchy's power. ESR triumphantly proclaims that the British monarchy "gets it". 
+	<p>
+	<b><font color="#cc3333">A.D. 1348</font></b>: The ILOVEYOU virus kills over half the population of Europe. (The other half was not using
+	Outlook.) 
+	<p>
+	<b><font color="#cc3333">A.D. 1420</font></b>: Johann Gutenberg invents the printing press. He is immediately sued by monks claiming that the
+	technology will promote the copying of hand-transcribed books, thus violating the church's intellectual
+	property. 
+	<p>
+	<b><font color="#cc3333">A.D. 1429</font></b>: Natalie Portman of Arc gathers an army of Slashdot trolls to do battle with the moderators. She is
+	eventually tried as a heretic and stoned (as in petrified). 
+	<p>
+	<b><font color="#cc3333">A.D. 1478</font></b>: The Catholic Church partners with doubleclick.net to launch the Spanish Inquisition. A.D. 1492:
+	Christopher Columbus arrives in what he believes to be "India", but which RMS informs him is actually
+	"GNU/India". 
+	<p>
+	<b><font color="#cc3333">A.D. 1508-12</font></b>: Michaelengelo attempts to paint the Sistine Chapel ceiling with ASCII art, only to have his plan
+	thwarted by the "Lameness Filter." 
+	<p>
+	<b><font color="#cc3333">A.D. 1517</font></b>: Martin Luther nails his 95 Theses to the church door and is promptly moderated down to (-1,
+	Flamebait). 
+	<p>
+	<b><font color="#cc3333">A.D. 1553</font></b>: "Bloody" Mary ascends the throne of England and begins an infamous crusade against Protestants.
+	ESR eats his words. 
+	<p>
+	<b><font color="#cc3333">A.D. 1588</font></b>: The "IF I EVER MEET YOU, I WILL KICK YOUR ASS" guy meets the Spanish Armada. 
+	<p>
+	<b><font color="#cc3333">A.D. 1603</font></b>: Tokugawa Ieyasu unites the feuding pancake-eating ninjas of Japan. 
+	<p>
+	<b><font color="#cc3333">A.D. 1611</font></b>: Mattel adds Galileo Galilei to its CyberPatrol block list for proposing that the Earth revolves
+	around the sun. 
+	<p>
+	<b><font color="#cc3333">A.D. 1688</font></b>: In the so-called "Glorious Revolution", King James II is bloodlessly forced out of power and flees
+	to France. ESR again triumphantly proclaims that the British monarchy "gets it". 
+	<p>
+	<b><font color="#cc3333">A.D. 1692</font></b>: Anti-GIF hysteria in the New World comes to a head in the infamous "Salem GIF Trials", in which
+	20 alleged GIFs are burned at the stake. Later investigation reveals that mayn of the supposed GIFs were
+	actually PNGs. 
+	<p>
+	<b><font color="#cc3333">A.D. 1769</font></b>: James Watt patents the one-click steam engine. 
+	<p>
+	<b><font color="#cc3333">A.D. 1776</font></b>: Trolls, angered by CmdrTaco's passage of the Moderation Act, rebel. After a several-year flame
+	war, the trolls succeed in seceding from Slashdot and forming the United Coalition of Trolls. 
+	<p>
+	<b><font color="#cc3333">A.D. 1789</font></b>: The French Revolution begins with a distributed denial of service (DDoS) attack on the Bastille. 
+	<p>
+	<b><font color="#cc3333">A.D. 1799</font></b>: Attempts at discovering Egyptian hieroglyphs receive a major boost when Napoleon's troops
+	discover the Rosetta stone. Sadly, the stone is quickly outlawed under the DMCA as an illegal means of
+	circumventing encryption. 
+	<p>
+	<b><font color="#cc3333">A.D. 1844</font></b>: Samuel Morse invents Morse code. Cryptography export restrictions prevent the telegraph's use
+	outside the U.S. and Canada. 
+	<p>
+	<b><font color="#cc3333">A.D. 1853</font></b>: United States Commodore Matthew C. Perry arrives in Japan and forces the xenophobic nation to
+	open its doors to foreign trade. ESR triumphantly proclaims that Japan finally "gets it". 
+	<p>
+	<b><font color="#cc3333">A.D. 1865</font></b>: President Lincoln is 'bitchslapped.' The nation mourns. 
+	<p>
+	<b><font color="#cc3333">A.D. 1901</font></b>: Italian inventor Guglielmo Marcoli first demonstrates the radio. Metallica drummer Lars Ulrich
+	immediately delivers to Marcoli a list of 335,435 suspected radio users. 
+	<p>
+	<b><font color="#cc3333">A.D. 1911</font></b>: Facing a break-up by the United States Supreme Court, Standard Oil Co. defends its "freedom to
+	innovate" and proposes numerous rejected settlements. Slashbots mock the company as "Standa~1" and depict
+	John D. Rockefeller as a member of the Borg. 
+	<p>
+	<b><font color="#cc3333">A.D. 1929</font></b>: V.A. Linux's stock drops over 200 dollars on "Black Tuesday", October 29th. 
+	<p>
+	<b><font color="#cc3333">A.D. 1945</font></b>: In the secret Manhattan Project, scientists working in Los Alamos, New Mexico, construct a
+	nuclear bomb from Star Wars Legos. 
+	<p>
+	<b><font color="#cc3333">A.D. 1948</font></b>: Slashdot runs the infamous headline "DEWEY DEFEATS TRUMAN." Shamefaced, the site
+	quickly retracts the story when numerous readers point out that it is not news for nerds, stuff that matters. 
+	<p>
+	<b><font color="#cc3333">A.D. 1965</font></b>: Jon Katz delivers his famous "I Have A Post-Hellmouth Dream" speech, which stated: "I have a
+	dream that one day on the red hills of Georgia the geeks of former slaves and the geeks of former slave geeks
+	will be able to sit down together at the table of geeks... I have a dream that my geek little geeks will one geek
+	live in a nation where they will not be geeked by the geek of their geek but by the geek of their geek." 
+	<p>
+	<b><font color="#cc3333">A.D. 1969</font></b>: Neil Armstrong becomes the first man to set foot on the moon. His immortal words: "FIRST
+	MOONWALK!!!" 
+	<p>
+	<b><font color="#cc3333">A.D. 1970</font></b>: Ohio National Guardsmen shoot four students at Kent State University for "Internet theft". 
+	<p>
+	<b><font color="#cc3333">A.D. 1989</font></b>: The United States invades Panama to capture renowned "hacker" Manual Noriega, who is
+	suspected of writing the DeCSS utility. 
+	<p>
+	<b><font color="#cc3333">A.D. 1990</font></b>: West Germany and East Germany reunite after 45 years of separation. ESR triumphantly
+	proclaims that Germany "gets it". 
+	<p>
+	<b><font color="#cc3333">A.D. 1994</font></b>: As years of apartheid rule finally end, Nelson Mandela is elected president of South Africa. ESR is
+	sick, and sadly misses his chance to triumphantly proclaim that South Africa "gets it". 
+	<p>
+	<b><font color="#cc3333">A.D. 1997</font></b>: Slashdot reports that Scottish scientists have succeeded in cloning a female sheep named Dolly.
+	Numerous readers complain that if they had wanted information on the latest sheep releases, they would have
+	just gone to freshsheep.net 
+	<p>
+	<b><font color="#cc3333">A.D. 1999</font></b>: Miramax announces Don Knotts to play hacker Emmanuel Goldstein in upcoming movie
+	"Takedown"
+</font>
+</blockquote>
+<font color="#ffffff" size=5 face=ariel>
+&copy; ${pretty_time(${_current_hour})}, sideswipe.com
+</font>
+
+#define	page89
+	<body bgcolor=#0000ff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/cos-emeter.gif"
+		alt="${morse(a religious device)}" width=674 height=453 border=0></a>
+	</div>
+
+#define	page88
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/crash.gif"
+		alt="${morse(slight downturn)}" width=574 height=182 border=0></a>
+	</div>
+
+#define	page87
+	<body bgcolor=#ecea14 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="${images}/al_in_nam_full.jpg"
+		alt="${morse(nam, gun, gore)}" width=244 height=400 border=0></a>
+	</div>
+
+#define	page86
+	<body bgcolor=#ff9c33 link=#ffffff vlink=#ffffff
+		background="${images}/top.microsoft.split.gif">
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img
+		src="http://www.adjective.com/images/random/_${random(693)}.jpg"
+		alt="${morse(bills going down)}" width=400 height=300 border=0></a>
+	</div>
+
+#define	page85
+	<body bgcolor=#996622 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/gum.jpg"
+		alt="${morse(walk, gum)}" width=321 height=399 border=0></a>
+	</div>
+
+#define	page84
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff ${randImg}>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/eapoe_crypto_ltr_small.gif"
+		alt="${morse(poe)}" width=540 height=614 border=0></a>
+	</div>
+
+#define	page83
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/fecal.jpg"
+		alt="${morse(shit)}" width=500 height=563 border=0></a>
+	</div>
+
+#define	page82
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/951767607.gif"
+		alt="${morse(bench.org..)}" width=750 height=364 border=0></a>
+	</div>
+
+#define	page81
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff ${randImg}>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/compute_HRplantardlab.jpg"
+		alt="${morse(well lab)}" width=500 height=137 border=0></a>
+	<p>
+	<a href="${nextUp}"><img src="${images}/compute_HRplantardlab.jpg"
+		alt="${morse(well lab)}" width=250 height=69 border=0></a>
+	<p>
+	<a href="${nextUp}"><img src="${images}/compute_HRplantardlab.jpg"
+		alt="${morse(well lab)}" width=100 height=27 border=0></a>
+	<p>
+	<a href="${nextUp}"><img src="${images}/compute_HRplantardlab.jpg"
+		alt="${morse(well lab)}" width=50 height=14 border=0></a>
+	<p>
+	<a href="${nextUp}"><img src="${images}/compute_HRplantardlab.jpg"
+		alt="${morse(well lab)}" width=100 height=27 border=0></a>
+	<p>
+	<a href="${nextUp}"><img src="${images}/compute_HRplantardlab.jpg"
+		alt="${morse(well lab)}" width=250 height=69 border=0></a>
+	<p>
+	<a href="${nextUp}"><img src="${images}/compute_HRplantardlab.jpg"
+		alt="${morse(well lab)}" width=500 height=137 border=0></a>
+	</div>
+
+#define	page80
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/FREARMsm.jpg"
+		alt="${morse(freedonia, freedonia.. what makes your big head so hard?)}" width=244 height=422 border=0></a>
+	</div>
+
+#define	page79
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<h2 align=center>
+	ineffective banner advertising example #5
+	</h2>
+	<hr noshade size=1>
+	<p>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/gay.gif"
+		alt="${morse(ineffective banner advertising)}" width=593 height=184 border=0></a>
+	</div>
+
+#define	page78
+	<body bgcolor=#cc0440 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 cellspacing=0 cellpadding=5>
+	<tr>
+	<td><img src="http://www.adjective.com/images/random/_${random(693)}.jpg" width=75 border=1 height=75"></td>
+	<td>&nbsp;</td>
+	<td><img src="http://www.adjective.com/images/random/_${random(693)}.jpg" width=75 border=1 height=75"></td>
+	</tr>
+	<tr>
+	<td>&nbsp;</td>
+	<td>
+	<a href="${nextUp}"><img src="${images}/kimwilde.jpg"
+		border=2 alt="${morse(my cousin)}" width=300 height=324></a>
+	<td>&nbsp;</td>
+	</td></tr>
+	<tr>
+	<td><img src="http://www.adjective.com/images/random/_${random(693)}.jpg" width=75 border=1 height=75"></td>
+	<td>&nbsp;</td>
+	<td><img src="http://www.adjective.com/images/random/_${random(693)}.jpg" width=75 border=1 height=75"></td>
+	</tr>
+	</table>
+	</div>
+
+#define	page77
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/www_leisuretown_com.jpg"
+		alt="${morse(www.leisuretown.com)}" width=599 height=262 border=0></a>
+	</div>
+
+#define	page76
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/antidrug_psa.gif"
+		alt="${morse(smile!)}" width=300 height=396 border=0></a>
+	</div>
+
+#define	page75
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/clownpunch.jpg"
+		alt="${morse(fk)}" width=200 height=420 border=0></a>
+	</div>
+
+#define	page74
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/deadpigs.gif"
+		alt="${morse(he eez peeg)}" width=500 height=92 border=0></a>
+	</div>
+
+#define	page73
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/eatdoggie.gif"
+		alt="${morse(ruff! yum!)}" width=250 height=305 border=0></a>
+	</div>
+
+#define	page72
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/welcomereagan.jpg"
+		alt="${morse(have we lost our minds?)}" width=200 height=511 border=0></a>
+	</div>
+
+#define	page71
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/georgesteals.jpg"
+		alt="${morse(bad verse)}" width=250 height=303 border=0></a>
+	</div>
+
+#define	page70
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/SFcard.jpg"
+		alt="${morse(welcome!)}" width=584 height=377 border=0></a>
+	</div>
+
+#define	page69
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/smellypenguin.jpg"
+		alt="${morse(squawk)}" width=200 height=333 border=0></a>
+	</div>
+
+#define	page68
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/whpk.jpg"
+		alt="${morse(pride of the south side)}" width=100 height=123 border=0></a>
+	</div>
+
+#define	page67
+	<body bgcolor=#cccccc link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/ExampleCheck.gif"
+		alt="${morse(example)}" width=600 height=400 border=0></a>
+	</div>
+
+#define	page66
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/1999_1027_hubblehits_07.jpg"
+		alt="${morse(freeeky)}" width=250 height=405 border=0></a>
+	</div>
+
+#define	page65
+	<body bgcolor=#e9e9e9 link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/sideswipe_ps1.gif"
+		alt="${morse(facts about cats)}" width=471 height=184 border=0></a>
+	</div>
+
+#define	page64
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/welch_diopter.jpg"
+		alt="${morse(the welch diopter &copy;)}" width=387 height=226 border=0></a>
+	</div>
+
+#define	page63
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/interesting_army.gif"
+		alt="${morse(intersting army)}" width=500 height=365 border=0></a>
+	</div>
+
+#define	page62
+	<body bgcolor=#ffffff link=#ffffff vlink=#ffffff>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/kit_cat_animated.GIF"
+		alt="${morse(kit cat kult)}" width=120 height=373 border=0></a>
+	</div>
+
+#define	page61
+	<body bgcolor=#000000 link=#000000 vlink=#000000 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/pilferprooftape.jpg"
+		alt="${morse(pilfer proof tape)}" width=600 height=188 border=0></a>
+	</div>
+
+#define	page60
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/1906_loma_prieta.gif"
+		alt="${morse(1906/loma)}" width=733 height=549 border=0></a>
+	</div>
+
+#define	page59
+	<body bgcolor=#221155 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/133-50.gif"
+		alt="${morse(japsexad)}" width=326 height=352 border=0></a>
+	</div>
+
+#define	page58
+	<body bgcolor=#000000 link=#000000 vlink=#000000 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/boxes.gif"
+		alt="${morse(options)}" width=420 height=448 border=0></a>
+	</div>
+
+#define	page57
+	<body bgcolor=#000000 link=#ffffff vlink=#ffffff text=#ffffff>
+	 <p><font face="arial, helvetica"
+	 size="-1">Posted 11/08/99 5:28pm by Tony Smith</font></p>
+	<p><font face="arial, helvetica"
+	 size="+2"><strong>Eclipse update: Apple PR stunts shocks World</strong></font></p>
+	<p><font face="arial, helvetica"
+	>The IT industry was left reeling today as Apple mounted its most audacious promotional campaign yet -- one that literally cast its famous <I>1984</I> Superbowl ad into the shade.
+	<br>
+	<br>
+	<IMG SRC="${images}/eclip.jpg" height="235" width="200" align="left" Alt="Think Different" hspace="8">At 11am British Summer Time, the UK was overcast by the largest Apple logo over seen. In central London, traffic halted as millions of Brits paused to watch what Apple spokesmen called the Message of the Millennium.
+	<br>
+	<br>
+	"Find out why 2000 won't be like Y2K," was blazoned across the sky as the Apple logo faded to totallity.
+	<br>
+	<br>
+	Speaking from Apple global HQ, interim CEO Steve Jobs said: "God is a great Mac fan, and when we took the plan to Him earlier this year, he was thrilled to take part."
+	<br>
+	<br>
+	Company CFO Fred Anderson told <I>The Register</I> the Almighty had initially refused to have His creation used for marketing purposes, and could only be persuaded to hire out the sun and moon for the occasion for a substantial dollar sum.
+	<br>
+	<br>
+	"The payment was significant," admitted Anderson, "but no more so than any other advertising campaign of this scale. God's rates are really quite reasonable.
+	<br>
+	<br>
+	"We expect to a take an exceptional charge over the next two financial quarters, but this will hopefully be covered by an increase in iMac of Biblical proportions sales over the period," he added.
+	<br>
+	<br>
+	Apple's move follows Microsoft's failed attempt last year to buy the moon and convert it into a permanently revolving Internet Explorer logo.
+	<br>
+	<br>
+	"We may as well go home," one representative of Microsoft's ad agency was heard to say when rumours of the Apple extravaganza emerged last night.
+	<br>
+	<br>
+	God is on holiday and not available for comment, said an Oracle spokesman. ?
+	<br>
+	<br>
+	<FONT COLOR=&dd0000><B>See also</B></FONT>
+	<br>
+	<a href= "${nextUp}">Lucent logo captures company in 'single masterful brush stroke'</a>
+	<br>
+	<a href= "${nextUp}">Intel registers loop to stop people going inside</a>
+	<br>
+	<a href= "${nextUp}">Wibbly Wobbly Web casts shadow over eclipse</a>
+	</font></p>
+
+#define	page56
+	<body bgcolor=#333333 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a onMouseOut="one.src='${images}/hobo_A.gif'"
+		onMouseOver="one.src='${images}/hobo_Aroll.gif'"
+		href="#"><img name="one" src="${images}/hobo_A.gif"
+		alt="${morse(no)}" width=90 height=90 border=0></a>
+	<a onMouseOut="two.src='${images}/hobo_D.gif'"
+		onMouseOver="two.src='${images}/hobo_Droll.gif'"
+		href="#"><img name="two" src="${images}/hobo_D.gif"
+		alt="${morse(no)}" width=90 height=90 border=0></a>
+	<a onMouseOut="three.src='${images}/hobo_I.gif'"
+		onMouseOver="three.src='${images}/hobo_Iroll.gif'"
+		href="#"><img name="three" src="${images}/hobo_I.gif"
+		alt="${morse(no)}" width=90 height=90 border=0></a>
+	<a onMouseOut="four.src='${images}/hobo_B.gif'"
+		onMouseOver="four.src='${images}/hobo_Broll.gif'"
+		href="${nextUp}"><img name="four" src="${images}/hobo_B.gif"
+		alt="${morse(yes)}" width=90 height=90 border=0></a>
+	</div>
+
+#define	page55
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/67corbro.jpg"
+		alt="${morse(enlist)}" width=348 height=277 border=0></a>
+	</div>
+
+#define	page54
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/thanks.gif"
+		alt="${morse(good manners)}" width=543 height=713 border=0></a>
+	</div>
+
+#define	page53
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/kels1.gif"
+		alt="${morse(Plagiarism - your best entertainment valus)}"
+			width=262 height=124 border=0></a>
+	</div>
+<h2>
+Notes
+</h2>
+	<p>
+       1. This incentive problem occurs in many other situations in enforcing laws, e.g., the Olympic Park bombing, and ATM<br>
+fraud in the United Kingdom.
+	<p>
+       2. Of course, this works both ways; there's no doubt a market, albeit a small one, for a couple of KKK<br>
+	serials involving the touching story of a loveable bunch of goons burning crosses in the yards of<br>
+people with the wrong skin color. Freedom of speech cuts both ways.
+	<p>
+<h2>
+       Bibliography
+</h2>
+	<p>
+       R. Anderson (editor), 1996a. Information hiding: first international workshop, Cambridge, U.K., May 30-June 1, 1996:<br>
+       proceedings. Berlin; New York: Springer-Verlag.<br>
+<br>
+       R. Anderson, 1996b. "The Eternity Service," In: Pragocrypt '96, part 1. Prague: CTU (Czech Technical University)<br>
+       Publishing House, pp. 242-252, and at http://www.cl.cam.ac.uk/users/rja14/eternity/eternity.html<br>
+<br>
+       M. Bellare, J.A. Garay, R. Hauser, A. Herzberg, H, Krawczyk, M. Steiner, G. Tsudik, and M. Waidner, 1995. "iKP - A<br>
+       Family of Secure Electronic Payment Protocols," In: Proceedings of the First USENIX Workshop of [i.e. on] Electronic<br>
+       Commerce, July 11-12, 1995, New York, New York, USA. Berkeley, Calif.: USENIX Association, pp. 89-106.<br>
+<br>
+       D. Boneh and J. Shaw, 1995. "Collusion-Secure Fingerprinting for Digital Data," In: D. Coppersmith (editor), Advances in<br>
+       cryptology, CRYPTO '95: 15th annual international cryptology conference, Santa Barbara, California, USA, August,<br>
+       1995: proceedings. Berlin; New York: Springer-Verlag, pp. 452-465.<br>
+<br>
+       S. Brands, 1994. "Untraceable Off-line Cash in Wallets with Observers," In: D. R. Stinson (editor), Advances in<br>
+       cryptology, CRYPTO '93: 13th annual international cryptology conference, Santa Barbara, California, USA, August<br>
+       22-26, 1993: proceedings. Berlin; New York: Springer-Verlag, pp. 302-318.<br>
+<br>
+       S. Brands, 1993. "An Efficient Off-line Electronic Cash System Based on the Representation Problem," Centrum voor<br>
+       Wiskunde en Informatica (CWI) Technical Report CS-T9323, and at http://www.cwi.nl/ftp/brands/CS- R9323.ps<br>
+<br>
+       CitiBank and S. Rosen, 1993. "Electronic-Monetary System," International Publication Number WO 93/10503 (May 27).<br>
+<br>
+       N. Ferguson, 1994. "Extensions of Single-Term Coins," In: D. R. Stinson (editor), Advances in cryptology, CRYPTO '93:<br>
+       13th annual international cryptology conference, Santa Barbara, California, USA, August 22-26, 1993: proceedings.<br>
+       Berlin; New York: Springer-Verlag, pp. 292-301.<br>
+<br>
+       M. Franklin and M. Yung, 1992. "Towards Provably Secure Efficient Electronic Cash," Columbia University Department of<br>
+       Computer Science Technical Report CUCS-018-92 (April 24), at<br>
+       http://www.cs.columbia.edu/~library/TR-repository/reports/reports-1992/cucs-018-92.ps.gz; also in: A. Lingas, R. Karlsson,<br>
+       S. Carlsson (editors), 1993. International Colloquium on Automata, Languages, and Programming (1993: Lund,<br>
+       Sweden). Automata, languages and programming: 20th international colloquium, ICALP 93, Lund, Sweden, July 5-9,<br>
+       1993: proceedings. Berlin; New York: Springer-Verlag.<br>
+<br>
+       S. H. Low, N. F. Maxemchuk and S. Paul, 1994. "Anonymous Credit Cards," In: 2nd ACM Conference on Computer and<br>
+       Communications Security, Nov. 2-4, 1994, Fairfax, Virginia. New York: ACM (Association for Computing Machinery)<br>
+       Press, pp. 108-117.<br>
+<br>
+       G. Medvinsky and B. C. Neuman, 1993. "Netcash: A Design for Practical Electronic Currency on the Internet," In: First<br>
+       ACM Conference on Computer and Communications Security. New York: ACM (Association for Computing Machinery)<br>
+       Press, pp. 102-106.<br>
+<br>
+       B. C. Neuman and G. Medvinsky, 1995. "Requirements for Network Payment: The NetCheque (SM) Perspective,"<br>
+       Proceedings of IEEE COMPCON'95, pp. 32-36, and at<br>
+       ftp://prospero.isi.edu/pub/papers/security/netcheque-requirements-compcon95.ps<br>
+<br>
+       T Okamoto, 1995. "An Efficient Divisible Electronic Cash Scheme," In: D. Coppersmith (editor), Advances in cryptology,<br>
+       CRYPTO '95: 15th annual international cryptology conference, Santa Barbara, California, USA, August 27-31, 1995:<br>
+       proceedings. Berlin; New York: Springer, pp. 438-451.<br>
+<br>
+       T. Okamoto and K. Ohta, 1990. "Disposable Zero-Knowledge Authentication and Their Applications to Untraceable<br>
+       Electronic Cash," In: G. Brassard (editor), Advances in cryptology: CRYPTO '89, proceedings. New York:<br>
+       Springer-Verlag, pp. 481-496.<br>
+<br>
+       T. Okamoto and K. Ohta, 1992. "Universal Electronic Cash," In: J. Feigenbaum (editor), Advances in cryptology -<br>
+       CRYPTO '91: proceedings. Berlin; New York: Springer-Verlag, pp. 324-337.<br>
+<br>
+       M. Sirbu and J. D. Tygar, 1995. "NetBill: An Internet Commerce System Optimized for Network Delivered Services,"<br>
+       Proceedings of IEEE COMPCON'95, pp. 20-25, and at http://www.ini.cmu.edu/netbill/pubs/CompCon_TOC.html<br>
+<br>
+       B. Schneier and J. Kelsey, 1996. "A Peer-to-Peer Software Metering System," In: Proceedings of the Second USENIX<br>
+       Workshop on Electronic Commerce: November 18-21, 1996, Oakland, California. Berkeley, Calif.: USENIX Association,<br>
+       pp. 279-286.<br>
+<br>
+       J. M. Tenenbaum, C. Medich, A. M. Schiffman, and W. T. Wong, 1995. "CommerceNet: Spontaneous Electronic<br>
+       Commerce on the Internet," Proceedings of IEEE COMPCON'95, pp. 38-43.<br>
+<br>
+	<hr>
+       Copyright  &copy; 1999, Sideswipe
+
+#define	page52
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/sstel.gif"
+		alt="${morse(and the oracle sez...)}" width=400 height=519 border=0></a>
+	</div>
+
+#define	page51
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/baddog1.jpg"
+		alt="${morse(bad dog!)}" width=400 height=400 border=0></a>
+	</div>
+
+#define	page50
+	<body bgcolor=#6699cc link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/idontneed2.gif"
+		alt="${morse(he doesn't need a computer)}" width=1294 height=78 border=0></a>
+	</div>
+
+#define	page49
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<font size=1 face=times>
+	Sideswipe is sponsored in part by..
+	</font>
+	<p>
+	<table border=0 cellspacing=0 cellpadding=6>
+	<tr>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_aol.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_apache.gif" alt="${morse(click!)}"
+		border=0 width=148 height=40></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_cisco.gif" alt="${morse(click!)}"
+		border=0 width=76 height=28></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_cnet.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_cobalt.gif" alt="${morse(click!)}"
+		border=0 width=117 height=41></a></td>
+	</tr><tr>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_dotcom.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_ebay.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_freebsd.gif" alt="${morse(click!)}"
+		border=0 width=171 height=64></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_freemail.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_freeshipping.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	</tr><tr>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_g2.gif" alt="${morse(click!)}"
+		border=0 width=88 height=32></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_ie.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_im.gif" alt="${morse(click!)}"
+		border=0 width=88 height=32></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_inktomi.gif" alt="${morse(click!)}"
+		border=0 width=126 height=40></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_jeeves.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	</tr><tr>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_miva.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_mysql.gif" alt="${morse(click!)}"
+		border=0 width=88 height=46></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_neoplane.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_netscape.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_nim.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	</tr><tr>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_nt.gif" alt="${morse(click!)}"
+		border=0 width=100 height=55></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_pointcast.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_starwars.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_truste.gif" alt="${morse(click!)}"
+		border=0 width=116 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_usps.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	</tr><tr>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_verisign.gif" alt="${morse(click!)}"
+		border=0 width=81 height=36></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_visa.gif" alt="${morse(click!)}"
+		border=0 width=37 height=23></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_winzip.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_zz.gif" alt="${morse(click!)}"
+		border=0 width=99 height=29></a></td>
+	<td align=center valign=center><a href="${nextUp}"><img src="${images}/pb_htdb.gif" alt="${morse(click!)}"
+		border=0 width=88 height=31></a></td>
+	</tr>
+	</table>
+	</div>
+
+#define	page48
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 bgcolor=#ffffff cellpadding=1 cellspacing=0><tr><td
+	valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/roster73.gif"
+		alt="${morse(silly mutherfuckers)}"
+	border=0 width=255 height=394></a></td></tr></table></div>
+
+#define	page47
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 bgcolor=#ffffff cellpadding=1 cellspacing=0><tr><td
+	valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/top.retreat.gif"
+		alt="${morse(retreat!  retreat!)}"
+	border=0 width=280 height=170></a></td></tr></table></div>
+
+#define	page46
+	<body bgcolor=#ffffff link=#000000 vlink=#000000 background=${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 bgcolor=#ffffff cellpadding=1 cellspacing=0><tr><td
+	valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/wildbill.jpg"
+		alt="${morse(still dorky, after all these years)}"
+	border=0 width=438 height=344></a></td></tr></table></div>
+
+#define	page45
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 bgcolor=#ffffff cellpadding=1 cellspacing=0><tr><td
+	valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/link.big.yearbook.picture.gif"
+		alt="${morse(and to think, in the 80's all they had to worry about was earring-wearers..)}"
+	border=0 width=474 height=309></a></td></tr></table></div>
+
+#define	page44
+	<body bgcolor=#111111 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 bgcolor=#ffffff cellpadding=1 cellspacing=0><tr><td
+	valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/d007.gif" alt="${morse(come over here, you)}"
+	border=50 width=77 height=85></a></td></tr></table></div>
+
+#define	page43
+	<body bgcolor=#ffffff link=#000000 vlink=#000000 background=${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/289.jpg" alt="${morse(found, swiped)}"
+	border=0 width=350 height=448></a>
+	</td></tr></table></div>
+
+#define	page42
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/SideswipePose.jpg" alt="${morse(this is a sideswipe)}"
+	border=0 width=229 height=290></a>
+	</td><td>
+	<a href="${nextUp}"><img src="${images}/sideswipe.gif" alt="${morse(this is a sideswipe)}"
+	border=0 width=116 height=140></a>
+	</td></tr></table></div>
+
+#define	page41
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/next.gif" alt="${morse(um, next)}"
+	border=0 width=400 height=262></a>
+	</td></tr></table></div>
+
+#define	page40
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/hollerith.gif" alt="${morse(behold, the punchcard)}"
+	border=0 width=250 height=599></a>
+	</td></tr></table></div>
+
+#define	page39
+	<body bgcolor=#000000 link=#000000 vlink=#000000 ${randImg}>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<table border=0 cellspacing=20 cellpadding=10 bgcolor=#eeeeee><tr><td align=center>
+	<a href="${nextUp}"><img src="http://www.allocine.fr/_axis/fullsize.jpg" alt="${morse(i love paris)}"
+	border=0 width=352 height=288></a>
+	<br>
+	<font size=4 face=times color=#333333><b>In the springtime, when it drizzles</b></font>
+	</td></tr></table>
+	</td></tr></table></div>
+
+#define	page38
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/telecom.gif" alt="${morse(nick currie & co.)}"
+	border=0 width=309 height=264></a>
+	</td></tr></table></div>
+
+#define	page37
+	<body bgcolor="#dfdfff" text="#ffffff">
+	<center><table width="100%" height="100%"><tr><th>
+	<table height=275 width=500 cellspacing=0 cellpadding=2><tr>
+        <th bgcolor="#000080" width=200 rowspan=7><font size="+1"><pre>
+
+*  *  *  *  *  *
+  *  *  *  *  *  
+*  *  *  *  *  *
+  *  *  *  *  *  
+*  *  *  *  *  *
+  *  *  *  *  *  
+*  *  *  *  *  *
+  *  *  *  *  *  
+*  *  *  *  *  *</pre></font></th>
+        <td bgcolor="#c00000" width=300>${stripes}</td></tr>
+        <tr><td bgcolor="#ffffff">${stripes}</td></tr>
+        <tr><td bgcolor="#c00000">${stripes}</td></tr>
+        <tr><td bgcolor="#ffffff">${stripes}</td></tr>
+        <tr><td bgcolor="#c00000">${stripes}</td></tr>
+        <tr><td bgcolor="#ffffff">${stripes}</td></tr>
+        <tr><td bgcolor="#c00000">${stripes}</td></tr>
+        <tr><td bgcolor="#ffffff" colspan=2>${stripes}</td></tr>
+        <tr><td bgcolor="#c00000" colspan=2>${stripes}</td></tr>
+        <tr><td bgcolor="#ffffff" colspan=2>${stripes}</td></tr>
+        <tr><td bgcolor="#c00000" colspan=2>${stripes}</td></tr>
+        <tr><td bgcolor="#ffffff" colspan=2>${stripes}</td></tr>
+        <tr><td bgcolor="#c00000" colspan=2>${stripes}</td></tr>
+	</table>
+	</th></tr></table></center>
+
+#define	page36
+	<body bgcolor=#333333 link=#000000 vlink=#000000 ${randImg}>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/infra.jpg" alt="${morse(duchamp)}"
+	border=0 width=410 height=531></a>
+	</td></tr></table></div>
+
+#define	page35
+		<HEAD>
+		<!--ELEMENT TITLE -->
+		<TITLE>Pity for the Plagiarist</TITLE>
+		</HEAD>
+		<BODY bgcolor="#FFFFFF" link=#0000ab vlink=#4444ab>
+		<center>
+		<table border=0 cellspacing=0 cellpadding=0 width=580>
+		<td align=left valign=top>
+		<!-- AD -->
+		<!-- /AD -->
+		</td></table>
+		<br>
+		<table border=0 cellspacing=5 cellpadding=0 width=580>
+		<td align=left valign=top width=50%>
+		<font size=-2 face="verdana,arial, helvetica"><b>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">Here Come the Wives</a><br>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">Ned Rorem on Mourning</a><br>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">Taking the Jive Out of Java</a><br>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">The Ethicist</a><br>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">An Indulgent Church</a><br>
+		</td>
+		<td align=left valign=top width=50%>
+		<font size=-2 face="verdana, arial, helvetica"><b>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">On Language by William Safire</a><br>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">Dangerous Crossing</a><br>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">Why I Prefer Miniature Cars by Evander Holyfield</a><br>
+		<nobr><font color="ab0000">&#149; </font><a href="${nextUp}">What They Were Thinking</a><br>
+		</td>
+		</tr>
+		<tr>
+		<td colspan=2>
+		<hr size=+1>
+		</td>
+		</tr></table>
+		<table border=0 cellspacing=0 cellpadding=0 width=475>
+		<td align=left valign=top>
+		<!--ELEMENT HEADLINE-->
+		<font size=-1 face=helvetica,arial color=AA5500><b>THE ETHICIST</b> BY RANDY COHEN</font><br>
+		<font size=+2 face=helvetica,arial><B>Pity for the Plagiarist</B></font>
+		<P><font size=+1 color=AA5500>'A college student called last week to say his "friend" had visited my Web page, lifted something I wrote and turned it in as her own work. Suspicious, her professor plans to search the Web; if he finds the paper was plagiarized, he'll recommend expulsion. The student implored me to take that paper off my site, lest her "friend's" academic career, and possibly her life, be ruined. What do I do?'</font>
+
+		<P>
+
+		<!--ELEMENT CAPTION-->
+		<table border=0 cellpadding=0 cellspacing=0 align=right width=160>
+		<td align=left valign=top width=10><br></td>
+		<td align=left valign=top width=150>
+		<img src="${images}/article8.1.jpg" border=0 width=150 height=131><br>
+		</td></table>
+
+
+		<p>
+		<!--dropcap--><IMG SRC="${images}/p.gif" align=left>roperly assigning credit is delicate business. If I sign Rembrandt's name to my work, it's forgery; if I sign my name to Rembrandt's work, it's plagiarism. There's just no pleasing some people. But what's astonishing here is not the expropriation; it's the request that you cover it up. Presumably, if this woman had stolen your stereo, she'd ask you for a lift to her fence.
+		<p>
+
+		<!--<txt>-->
+
+		<p>
+		  When the penalty is severe enough, however, a wrongdoer's appeals for mercy are not entirely ludicrous. It would be hard not to relent, say, if the Taliban planned to topple a wall onto her. (Though if she survived, I believe she'd automatically ace the semester.) 
+		<p>
+		 Expulsion from college is not such a case. Even if she receives the worst possible punishment -- by no means a certainty -- it's unlikely to wreck her life. A young woman with her low level of moral inhibition and high level of chutzpah should flourish in modern America. She might be lucky enough to one day find herself in a nice Federal minimum-security prison, where she can make professional connections that will set her up forever. Or perhaps she'll get a job at Cliffs Notes, giving a new generation of kids a legitimate way to crib their way through college.
+		<p>
+		 Even if your heart goes out to the young plagiarist, you're not at liberty to drop the charges, since you're not the victim of this crime. You can, however, call the professor and appeal for leniency. But destroying evidence is definitely the wrong way to go.
+		<p>
+		 If you don't believe me, check out a 1976 movie called "All the President's Men." I won't spoil it for you by giving away the ending.
+		<p>
+		<br>
+		<hr size=1>
+		<i> To send Randy Cohen your own question about ethics, write to: ethicist@sideswipe.com or The Ethicist, The Sideswipe Magazine, ${random(229)} West 43d Street, New York, NY 10036.</i><p>
+		<font size=-1>Illustration by <nobr>Christoph Niemann</nobr></font>
+		<hr size=1>
+
+		<br>
+		<!--</txt>-->
+		<P>
+		<font size=-1><a href="${nextUp}">PREVIOUS ARTICLE</a> | <a href="${nextUp}">NEXT ARTICLE</a></font>
+		<br>
+		<P><!--ELEMENT DATE-->
+		<P><BR><center><font size=-1>Sunday, March 14, 1999</font>
+
+		<!--ELEMENT FOOTER-->
+		<BR>
+		<font size=-1>Copyright 1999 The Sideswipe Company</font>
+		</center>
+		</td></table>
+
+#define	page34
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom align=center>
+	<a href="${nextUp}"><img src="${images}/Joanna_sm.gif"
+	alt="${morse(kiss me!)}"
+	border=0 width=282 height=380></a>
+	<p>
+	Why not have a painting of your wife or girlfriend?
+	<p>
+	E-mail me for information.
+	</td></tr></table></div>
+
+#define	page33
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom>
+	<a href="${nextUp}"><img src="${images}/euro20.jpg"
+	alt="${morse(marchon!)}"
+	border=0 width=291 height=156></a>
+	</td></tr></table></div>
+
+#define	page32
+		<HEAD>
+		<TITLE>sideswipe Platinum Visa and Valentine's Day</TITLE>
+		</HEAD>
+		<BODY BGCOLOR=#FFFFFF LINK=#CC0000 ALINK=#996600 VLINK=#330000>
+		<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=600>
+		<TR>
+		<TD><img SRC="${images}/instant_credit_candy.gif" WIDTH="193" HEIGHT="152" BORDER="0"><img SRC="${images}/sCard_valentines_logo.gif" WIDTH="406" HEIGHT="152" BORDER="0"></TD>
+		</TR>
+		</TABLE>
+		<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=90%>
+		<TR>
+		<TD WIDTH=34% VALIGN=TOP><CENTER>
+		<font color=#cc0000" size=4 face=times><b>
+		APPLY ONLINE
+		</b></font>
+		<br>
+		<font size=1 face=times>
+		and get your answer in minutes!
+		</font>
+		<br><a href="${nextUp}"><img SRC="${images}/sCard_card.gif" WIDTH="180" HEIGHT="127" BORDER="0"></A><br><FONT SIZE=1><a href="${nextUp}">Click Here for More Details</A></FONT><P>
+		<font color=#cc0000" size=2 face=times><b>
+		CLICK HERE
+		</b></font>
+		<br>
+		<font size=1 face=times>
+		to see a complete list of<br>
+		participating merchants
+		</font>
+		</CENTER></TD>
+		<TD ALIGN=LEFT VALIGN=TOP WIDTH=66%>
+		<font color="#cc0000" size=2 face=times><b>
+		INTRODUCING sideswipe VISA
+		</b></font>
+		<BLOCKQUOTE><FONT FACE=ARIAL, HELVETICA, SAN SERIF SIZE=2>The Sideswipe Platinum Visa is a first -- all the convenience, value and benefits of a traditional Platinum Visa credit card, while offering <B>5% cash back</B> for all purchases from premier online merchants.</BLOCKQUOTE>
+		<font color="#cc0000" size=2 face=times><b>
+		MONEY SAVING BENEFITS
+		</b></font>
+		<BLOCKQUOTE><LI> Great Rate - <B>3.9% Introductory</B> APR for 5 months, then a low 9.99% Fixed APR!* - for all online and offline purchases<LI> <B>NO Annual Fee</B><LI> Credit Line up to $100,000<LI> Free Balance Transfers</BLOCKQUOTE>
+		<font color="#cc0000" size=2 face=times><b>
+		WHY WAIT?<br>
+		APPLY NOW FOR AN ANSWER<br>
+		IN MINUTES.  HERE'S HOW.
+		</b></font>
+		<BLOCKQUOTE><NL> 1. Click <a href="${nextUp}">"Apply Online Now"</A> to begin the <B>instant application</B> process.<br>
+		<NL> 2. Follow instructions in the sideswipe Platinum Visa application windows carefully.<br>
+		<NL> 3. After you've completed your sideswipe Platinum Visa application, click the "Send Application Now" button. Once approved, write down your new sideswipe Platinum Visa number and the expiration date. It's available for online shopping today!</BLOCKQUOTE>
+		<font color="#cc0000" size=2 face=times><b>
+		5% CASH BACK FOR<br>
+		ONLINE PURCHASES
+		</b></font>
+		<BLOCKQUOTE>Our gift to you -- make a purchase online at any one of the <a href="${nextUp}">participating merchants</A> and receive 5% cash back on your next sideswipe statement. No points to save up, no spending hurdles to meet. It's that simple.</BLOCKQUOTE>
+		<font color="#cc0000" size=2 face=times><b>
+		TIME SAVING SERVICES
+		</b></font>
+		<BLOCKQUOTE><LI> Online Bill Payment Option<LI> Online Account Access<LI> Online Customer Service</BLOCKQUOTE>
+		<font color="#cc0000" size=2 face=times><b>
+		ONLINE SECURITY
+		</b></font>
+		<BLOCKQUOTE><LI> Guaranteed Security of Online Purchases<LI> Short, Secure Online Application</BLOCKQUOTE></TD>
+		</TR>
+		</TABLE> 
+		<TABLE BORDER=0 WIDTH=90%>
+		<TR>
+		<TD><CENTER>
+		<FONT FACE=ARIAL, HELVETICA, SAN SERIF SIZE=1><a href="${nextUp}">* Please see the Terms and Conditions</A></FONT><P>
+
+		<FONT SIZE=1 FACE=ARIAL, HELVETICA, SANS SERIF><a href="${nextUp}">Click Here</A> to apply online now.<P>
+
+		<font size=1><a href="${nextUp}">Click here for the Sideswipe Privacy Policy</a></font>
+		</CENTER>
+		</TD>
+		</TR>
+		</TABLE>
+
+#define	page31
+	<body bgcolor=#000000 link=#000000 vlink=#000000 ${randImg}>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom>
+	<a href="${nextUp}"><img
+	src="${images}/top.lewinsky.gif" alt="${morse(Top/lEwinSky)}"
+	border=0 width=400 height=214></a>
+	</td></tr></table></div>
+	
+#define	page30
+	<body bgcolor=#aeaeae link=#000000 vlink=#000000>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom>
+	<a href="${nextUp}"><img
+	src="${images}/ReddPebworth.gif" alt="${morse(Redd/Pebworth)}"
+	border=0 width=313 height=299></a>
+	</td></tr></table></div>
+	
+#define	page29
+	<body bgcolor=#cfcf66 link=#000000 vlink=#000000 ${randImg}>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom>
+	<a href="${nextUp}"><img
+	src="${images}/grit.gif" alt="${morse(true grit!)}"
+	border=0 width=487 height=241></a>
+	</td></tr></table></div>
+	
+#define	page28
+	<BODY BGCOLOR="#FFFFFF">
+	<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="694" HEIGHT="100%"><TR><TD COLSPAN=3 BGCOLOR="#000000">
+		<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%" HEIGHT="100%"><TR>
+		<TD VALIGN=MIDDLE ALIGN=CENTER>
+		<font color="#ccccff" size=5 face="arial">
+		<b>Sideswipe</b></font>
+		</TD>
+		<TD ALIGN=RIGHT WIDTH=532>
+		<img src="${images}/ver_logo.gif" alt="${morse(lovely logo)}" width=532 height=59></TD></TR></TABLE>
+		</TD></TR>
+	<TR><TD NOWRAP COLSPAN=3 BGCOLOR="#333366">
+		<a href="${nextUp}"><img src="${images}/ver_hnav.gif" border=0 alt="${morse(nav)}" alt="nav" width=694 height=21></a></TD></TR>
+	<TR><TD NOWRAP WIDTH="77" VALIGN=TOP BGCOLOR="#000000" ROWSPAN=10>
+		<a href="${nextUp}"><img src="${images}/ver_vnav.gif" border=0 alt="${morse(nav)}" width=77 height=583></a></TD></TR>
+		</TD>
+	<TD COLSPAN=2>
+	<img
+		src="${images}/ver_blank.gif" WIDTH="1" HEIGHT="10" BORDER="0"></TD></TR>
+	<TR><TD VALIGN=MIDDLE ALIGN=LEFT BGCOLOR="#006666" COLSPAN=2 height=21>
+		&nbsp;&nbsp;<font color=#cfcfcf size=2 face=times><b>Welcome to Sideswipe Technical Support</b></font>
+		</TD></TR>
+	<TR><TD><img
+		src="${images}/ver_blank.gif" WIDTH="12" HEIGHT="5" BORDER="0"></TD><TD>
+	     <img
+		src="${images}/ver_blank.gif" WIDTH="1" HEIGHT="10" BORDER="0"><br>
+	<FONT SIZE="3" FACE="Arial, Helvetica, Sans Serif">Search our online technical documents:  </FONT> 
+	<a href="${nextUp}"><img
+		src="${images}/ver_quest.gif" ALT="Hints" WIDTH="18" HEIGHT="17" ALIGN="ABSMIDDLE" BORDER="0"></a>
+
+	<TABLE BORDER="0" CELLSPACING="3" CELLPADDING="0"><TR><TD VALIGN=MIDDLE>
+<FORM ACTION="${nextUp}" METHOD="POST">
+	<INPUT TYPE="text" NAME="querytext" SIZE=40> </TD>
+	<TD VALIGN=BOTTOM>
+<font size=2><INPUT TYPE="submit" Value="Search"></font>
+</FORM>
+</TD></TR></TABLE>
+	<img
+		src="${images}/ver_blank.gif" WIDTH="1" HEIGHT="10" BORDER="0"></TD></TR>
+
+	<TR>
+	<TD><img
+		src="${images}/ver_blank.gif" WIDTH="12" HEIGHT="1" BORDER="0"></TD>
+
+	<TD>
+	<FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif"> Sideswipe Information Server 3.60 and Agent Server 1.11 are now available for download for the NT and Solaris platforms. For download site access contact Technical Support at (${random(9)}${random(9)}${random(9)}) ${random(9)}${random(9)}${random(9)}-${random(9)}${random(9)}${random(9)}${random(9)}. If you <a href="${nextUp}">email us</a> please be sure to include your entity id number and your phone number.   
+	<br><br></FONT>
+
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A> <FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif"><a href="${nextUp}">Spider Admin Feedback</A> page now available. Send us your comments on the Spider Admin Preview.
+	<br><br>
+
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A>  
+	<FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif"><a href="${nextUp}">Tech Support NewsGroups Changes</A>
+	<br><br>
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A>  
+	<FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif"><a href="${nextUp}">Important Security Information</a> for Information Server 3.10 and previous.
+	<br><br>
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A>  
+	<FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif"><a href="${nextUp}">Sspider Compatibility FAQ</A>
+	<br><br>
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A>  
+	<FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif"><a href="${nextUp}">Search Sideswipe's Documentation and Tech Support's FAQs</A>
+	<br><br>
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A> 
+	<a href="${nextUp}">Getting Started with Queries</a> for 
+	advanced searching.</FONT>
+
+	<br><br><FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif">
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A> 
+	Sideswipe 
+	provides <a href="${nextUp}">on-site training</A> that matches the needs of your staff
+	and adjusts to your schedule.
+	<br><br>
+
+	<a href="${nextUp}"><img
+		src="${images}/ver_doc.gif" ALIGN=ABSMIDDLE WIDTH="22" HEIGHT="28" BORDER="0"></A>  
+	For more information about Sideswipe Technical Support please browse 
+	our <a href="${nextUp}">Product
+	Information</a>.
+	<br><br>
+
+	<a href="${nextUp}"><img
+		src="${images}/ver_submit.gif" ALIGN=ABSMIDDLE ALT="email form" WIDTH="28" HEIGHT="22" BORDER="0"></A> <a href="${nextUp}">Submit
+		a Technical Request</a>
+	<br><br>
+	<a href="${nextUp}"><img
+		src="${images}/ver_submit.gif" ALIGN=ABSMIDDLE ALT="email form" WIDTH="28" HEIGHT="22" BORDER="0"></A> <a href="${nextUp}">Submit
+		an Upgrade Request</a>
+
+	<br><br>
+	To be eligible for technical support of Sideswipe products:</FONT>
+	<ul>
+	 <li><FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif">You must have a current maintenance contract with Sideswipe.  
+	   Please e-mail <a href="${nextUp}">maint@verity.com</a>  if you are unsure of your
+	   maintenance contract's current status or if you are interested
+	   in starting a maintenance contract.</FONT>
+
+	 <li><FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif">Your Sideswipe product must be running on a supported platform.  
+	   Supported platforms are listed for each product on our <a href="${nextUp}">Product 
+	   Support</a> page.</FONT>
+
+	 <li><FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif">Any version of third party software you are using in conjunction 
+	   with Sideswipe software must be currently supported by the company 
+	   which developed that software.  Please read Sideswipe's FAQ about 
+	   <a href="${nextUp}">"Support
+	of New Third Party Products"</a> for details on support of 
+	   newly released products.</FONT> 
+	</ul>
+	<FONT SIZE="2" FACE="Arial, Helvetica, Sans Serif">If you have any questions about support issues, 
+	please contact your 
+	<a href="${nextUp}">sales representative</a>.
+	<br><br>
+	Please note that Sideswipe does <strong>not</strong> provide support
+	for <strong>evaluation</strong> or
+	<strong>beta</strong> versions of non-Sideswipe products.
+	<br><br>
+	Sideswipe is committed to providing high-quality software, service, and support
+	to meet today's business needs.
+	<br><br>
+	The support staff provides technical support to distributors as well as customers.
+	Support Engineers respond to questions regarding the usage and functionality of 
+	supported Sideswipe products.  We help identify software problems, develop workarounds 
+	when feasible, and record enhancement requests for consideration in future Sideswipe 
+	product releases.</FONT>
+	<br><img
+		src="${images}/ver_blank.gif" WIDTH="1" HEIGHT="5" BORDER="0"></TD></TR></TABLE>
+
+#define	page27
+	<body bgcolor=#ffffff link=#000000 vlink=#000000>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=bottom>
+	<a href="${nextUp}"><img
+		src="${images}/finch.gif"
+		width=200 height=245 border=0></a>
+	</td><td valign=top>
+	<a href="${nextUp}"><img
+		src="${images}/duckfly.gif"
+		width=80 height=105 border=0></a>
+	</td></tr></table>
+	</div>
+
+#define	page26
+	<body bgcolor=#993300 link=#000000 vlink=#000000 ${randImg}>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/oswald.gif"
+		width=200 height=210 border=1></a>
+	</td></tr></table>
+	</div>
+
+#define	page25
+	<body bgcolor=#90b398 link=#000000 vlink=#000000 background="${images}/win95.gif">
+	<div align=left>
+	<a href="${nextUp}"><img
+		src="${images}/menu2.gif"
+		width=160 height=114 border=0></a>
+	</div>
+
+#define	page24
+	<body bgcolor=#000000 link=#000000 vlink=#000000>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=middle>
+	<img
+		src="${images}/msdoj_toched.gif"
+		width=310 height=49 border=0>
+	</td>
+	<td valign=middle width=50>
+	&nbsp;
+	</td>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/ball.gif" width=30 height=30 border=0></a>
+	</td></tr></table>
+	</div>
+
+#define	page23
+	<body bgcolor=#880000 link=#000000 vlink=#000000 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/22_ant3.gif"
+		width=307 height=172 border=1></a>
+	</td></tr></table>
+	</div>
+
+#define	page22
+	<body bgcolor=#ffffff link=#ff00a2 vlink=#ff00a2>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%>
+	<tr>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	</tr>
+	<tr>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	</tr>
+	<tr>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	<td valign=middle>
+	<a href="${nextUp}"><img
+		src="${images}/bicyclcm.gif"
+		width=150 height=87 border=0></a>
+	</td>
+	</tr>
+	</table>
+	</div>
+
+#define	page21
+	<body bgcolor=#000000 link=#ff00a2 vlink=#ff00a2 ${randImg}>
+	<br><br><br><br>
+	<div align=center>
+	<table border=0 height=50%><tr><td valign=middle>
+	<a href="${nextUp}"
+		onMouseover='images[0].src="${images}/mccallum2.gif";'
+		onMouseout='images[0].src="${images}/mccallum.gif";'><img
+		src="${images}/mccallum.gif"
+		width=234 height=300 border=0></a>
+	</td></tr></table>
+	</div>
+
+#define	page20
+	<body bgcolor=#ffffff link=#ff00a2 vlink=#ff00a2>
+	<br><br><br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/daCut.gif"
+		width=768 height=89 border=0></a>
+	</div>
+
+#define	page19
+	<body bgcolor=#ffffff link=#ff00a2 vlink=#ff00a2>
+	<br><br><br><br>
+	<div align=center>
+	<img src="${images}/title4.gif" width=148 height=219 border=0>
+	<br><br><br><br>
+	<a href="${nextUp}"><img src="${images}/icon-1.gif" width=117 height=38 border=0></a>
+	</div>
+
+#define	page18
+	<body bgcolor=#ff00a2 link=#ff00a2 vlink=#ff00a2 ${randImg}>
+	<div align=center>
+	<table border=0 height=70% width=500><tr height=70%><td height=70%>
+	<table border=0 cellpadding=0 cellspacing=0>
+	<tr>
+	<td colspan=3><img src="${images}/_top.gif" border=0 width=511 height=83></td>
+	</tr>
+	<tr>
+	<td align=left><img src="${images}/_left.gif" border=0 width=196 height=351></td>
+	<td>
+	<a href="${nextUp}"><img src="${images}/jpeople14_x.gif"
+		border=0 width=104 height=334></a>
+	</td>
+	<td align=right><img src="${images}/_right.gif" border=0 width=203 height=351></td>
+	</tr>
+	<tr>
+	<td colspan=3><img src="${images}/_bottom.gif" border=0 width=511 height=83></td>
+	</tr>
+	</table>
+	</td></tr></table>
+	</div>
+
+#define	page17
+	<body bgcolor=#ffffff link=#cfcfcf vlink=#cfcfcf>
+	<div align=center>
+	<table border=0 height=70%><tr height=70%><td height=70%>
+	<a href="${nextUp}"><img src="${images}/62_x.gif"
+		border=0 width=432 height=416></a>
+	</td></tr></table>
+	</div>
+
+#define	page16
+	<body bgcolor=#ffffff link=#cfcfcf vlink=#cfcfcf>
+	<div align=center>
+	<table border=0 height=70%><tr height=70%><td height=70%>
+	<a href="${nextUp}"><img src="${images}/29_May_1943_m4_p1.gif"
+		border=0 width=486 height=666></a>
+	</td></tr></table>
+	</div>
+
+#define	page15
+	<body bgcolor=#ffffff link=#cfcfcf vlink=#cfcfcf>
+	<div align=center>
+	<table border=0 height=70%><tr height=70%><td height=70%>
+	<a href="${nextUp}"><img src="${images}/clock.gif"
+		border=0 width=95 height=76></a>
+	</td></tr></table>
+	</div>
+
+#define	page14
+	<body bgcolor=#ffffff link=#cfcfcf vlink=#cfcfcf>
+	<div align=center>
+	<table border=0 height=70%><tr height=70%><td height=70%>
+	<a href="${nextUp}"><img src="${images}/money.gif"
+		border=0 width=105 height=80></a>
+	</td></tr></table>
+	</div>
+
+#define	page13
+	<body bgcolor=#000000 link=#cfcfcf vlink=#cfcfcf>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/clintocad.gif"
+		width=273 height=170 border=0></a>
+	<p>
+	<font color=#dedede size=4>
+	The most powerful cad in the world
+	</font>
+	<p>
+	<a href="${nextUp}"><img src="${images}/volume7274.gif"
+		width=365 height=338 border=0></a>
+#	<p>
+#	<font color=#cfcfcf size=5>
+#	<a href="/ClintonFuksUp/index.html">
+#	The Starr Report
+#	</a>
+	</font>
+	</div>
+
+#define	page12
+	<body bgcolor=#ffffff>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/beet-name.gif"
+		width=383 height=193 border=0></a>
+	<a href="${nextUp}"><img src="${images}/beet-pic.gif"
+		width=486 height=200 border=0></a>
+	<p>
+	<b>
+	It is out of matter to compare and give birth to
+	<br>
+	from false competition between the free software.
+	</b>
+	</div>
+
+#define	page11
+	<body bgcolor=#ffffff>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/fukem-tee.gif"
+		border=0 width=309 height=274  alt="${morse(fukem)}"></a>
+	</div>
+
+#define	page10
+	<body bgcolor=#ffffff>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/irony-tee.gif"
+		border=0 width=309 height=274  alt="${morse(irony)}"></a>
+	</div>
+
+#define	page9
+	<body bgcolor=#ffffff>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<font face=times size=6 color=#ff0000>
+	Just how Y2K compliant is
+	<p>
+	<a href="${nextUp}"><img src="${images}/microsfot.gif"
+		border=0 width=135 height=63  alt="${morse(microsfot's windows 98)}"></a>
+	<p>
+	when even its name isn't?</font>
+	</div>
+
+#define	page8
+	<body bgcolor=#ff3399>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<table cellspacing=0 cellpadding=10><tr>
+	<td align=center>
+	<table cellspacing=0 cellpadding=4 bgcolor=#000000><tr><td>
+		<a href="${nextUp}"><img src="${images}/mossbrea_small.jpg" width=200 height=135 border=0></a></td></tr></table>
+	<font face=arial size=2>mossbrae falls</font>
+	</td>
+	<td align=center>
+	<table cellspacing=0 cellpadding=4 bgcolor=#000000><tr><td>
+		<a href="${nextUp}"><img src="${images}/castle_rock_small.jpg" width=200 height=136 border=0></a></td></tr></table>
+	<font face=arial size=2>castle crags</font>
+	</td>
+	</tr></table>
+	</div>
+
+#define	page7
+	<body bgcolor=#ff0000>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/hgfire01.gif" width=455 height=497 border=0></a>
+	</div>
+
+#define	page6
+	<body bgcolor=#ffffff>
+	<div align=center>
+	<img src="${images}/imagine.gif" width=394 height=74><p>
+	<table bgcolor=#000000 width=396 cellspacing=0 cellpadding=2 border=0><tr><td align=center valign=middle>
+	<table bgcolor=#ffffff cellspacing=0 cellpadding=0 border=0><tr><td valign=middle align=center>
+	<br>
+	<br>
+	<table bgcolor=#ffffff cellspacing=0 cellpadding=0><tr><td valign=top>
+	<img src="${images}/palml.gif" width=66 height=70>
+	</td>
+	<td valign=top>
+	<table bgcolor=#ffffff cellspacing=0 cellpadding=0><tr><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>s</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>i</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>d</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>e</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>s</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>w</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>i</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>p</b></font></td></tr></table>
+	</td><td>
+	<table border=0 cellspacing=0 cellpadding=1><tr><td bgcolor=#990033 align=center width=12 height=25>
+	<font color=#ffffff size=3 face="helvetica"><b>e</b></font></td></tr></table>
+	</td></tr></table>
+	</td>
+	<td valign=top>
+	<img src="${images}/palmr.gif" width=66 height=70>
+	</td></tr></table>
+	<hr noshade size=2>
+	<a href="${nextUp}"><img src="${images}/nav.gif" width=388 height=14 border=0></a>
+	</td></tr></table>
+	</td></tr></table>
+	</div>
+
+#define	page5
+	<body bgcolor="#ffffff">
+	<br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/oyako9.gif" border=0 width=305 height=336></a>
+	<br>
+	<br>
+	<br>
+	<pre><font size=3>T h e   t e l e v i s i o n   w i l l
+	n o t   b e   r e v o l u t i o n i z e d</font></pre>
+	</div>
+
+#define	page4
+	<body bgcolor="#ffffff">
+	<br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/ostrichFarm.jpg" border=1 width=386 height=240></a>
+	</div>
+
+#define	page3
+	<body bgcolor="#000000" ${randImg}>
+	<br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/thumb_kim_grin.gif" border=0 width=102 height=102></a>
+	</div>
+
+#define	page2
+	<body bgcolor="#000000" background="${images}/bad_stars.gif">
+        <br><br>
+        <div align=center>
+        <table border=0 cellspacing=0 cellpadding=0>
+        <tr>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>
+        <a href="${nextUp}"><img src="${images}/ufo.gif" border=0 width=46 height=20></a>
+        </td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>
+        <a href="${nextUp}"><img src="${images}/ufo136.gif" border=0 width=200 height=67></a>
+        </td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>
+        <a href="${nextUp}"><img src="${images}/bad_moon.gif" border=0 width=29 height=29></a>
+        </td>
+        </tr>
+        <tr>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>
+        <a href="${nextUp}"><img src="${images}/earth.gif" border=0 width=70 height=52></a>
+        </td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        <td width=70 height=80>${imgBlank}</td>
+        </tr>
+        </table>
+        </div>
+
+#define	page1
+	<body background="${images}/chart.gif">
+	<a href="${nextUp}"><img border=0 src="${images}/beat.gif" width=2099 height=130></a>
+
+#define	page0
+	<body bgcolor="#000000">
+	<br><br>
+	<div align=center>
+	<a href="${nextUp}"><img src="${images}/flags_4.gif"
+		border=0 width=211 height=400></a><a href="${nextUp}"><img
+		src="${images}/flags_4.gif"
+		border=0 width=211 height=400></a><a href="${nextUp}"><img
+		src="${images}/flags_4.gif" border=0 width=211 height=400></a>
+	</div>
+
+#define	index.html
+	<head>
+	<META HTTP-EQUIV="Refresh" CONTENT="60; URL=${nextUp}">
+	<title>Sideswipe.Com
+	${itor(${eval(${pageMax} - ${thisNum} - 1)})} of ${itor(${eval(${pageMax} + 1)})}
+	</title></head>
+	${page${thisNum}}
+	<!-- ${_hit_count} -->
+
+##define	pageMax
+##live	while (x = page*)
+##live	endwhile
+#	${x}
+#
+##define	thisNum
+##live	if (getval(counter))
+##live	if ((getnum(counter) < 0) || (getnum(counter) >= ${pageMax}))
+#	${pageMax}
+##live	else
+#	${counter}
+##live	endif
+##live	else
+#	${pageMax}
+##live	endif
+#
+##define	nextNum
+##live	if (getnum(thisNum) <= 0)
+#	${pageMax}
+##live	else
+#	${eval(${thisNum} - 1)}
+##live	endif
