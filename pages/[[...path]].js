@@ -1,17 +1,16 @@
 import Head from 'next/head'
-
 import HTDB from 'HTDBjs';
 
 let htdb;
 
 export async function getServerSideProps({ query: { path = [], id = 0 } = {} }) {
-	const intId = parseInt(id);
+	let intId = parseInt(id);
 	if (!htdb) {
 		htdb = new HTDB(0);
 	}
 
 	htdb.prerender = () => {
-		// override htdb file values
+		// override htdb file values - this can go away when '#live' works..
 		const pageMax = Object.keys(htdb.defines).filter(f => {
 			const [ page, num ] = f.split('page');
 			return num === '0' || parseInt(num);
@@ -23,7 +22,7 @@ export async function getServerSideProps({ query: { path = [], id = 0 } = {} }) 
 	}
 	console.log("SERVING", intId);
 	return {
-		props: { body: await htdb.render() }
+		props: { body: await htdb.render('index.html') }
 	}
 }
 
