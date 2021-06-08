@@ -1,10 +1,8 @@
 #define	imgBlank
 	<img border=0 width=20 height=20 alt="${morse()}" src="${images}/blank.gif">
 
-##define	nextUp
-#	${base_url}?${encrypt(counter=${nextNum})}
-##define	nextUp
-#	${base_url}
+#define	nextUp
+	${base_url}?${encrypt(counter=${nextNum})}
 
 #define	randImg
 	background="http://www.adjective.com/images/random/_${random(693)}.jpg"
@@ -3390,30 +3388,30 @@ people with the wrong skin color. Freedom of speech cuts both ways.
 	<head>
 	<META HTTP-EQUIV="Refresh" CONTENT="60; URL=${nextUp}">
 	<title>Sideswipe.Com
-	${itor(${eval(${pageMax} - ${thisNum} - 1)})} of ${itor(${eval(${pageMax} + 1)})}
+	${itor(${eval(${pageMax} - ${eval(${thisNum} - 1)})})} of ${itor(${eval(${pageMax} + 1)})}
 	</title></head>
 	${page${thisNum}}
 	<!-- ${_hit_count} -->
 
-##define	pageMax
-##live	while (x = page*)
-##live	endwhile
-#	${x}
-#
-##define	thisNum
-##live	if (getval(counter))
-##live	if ((getnum(counter) < 0) || (getnum(counter) >= ${pageMax}))
-#	${pageMax}
-##live	else
-#	${counter}
-##live	endif
-##live	else
-#	${pageMax}
-##live	endif
-#
-##define	nextNum
-##live	if (getnum(thisNum) <= 0)
-#	${pageMax}
-##live	else
-#	${eval(${thisNum} - 1)}
-##live	endif
+#define	pageMax
+#live	while (x = page*)
+#live	endwhile
+	${x}
+
+#define	thisNum
+#live	if (getval(counter))
+#live	if ((getnum(counter) < 0) || (getnum(counter) >= ${pageMax}))
+	${pageMax}
+#live	else
+	${counter}
+#live	endif
+#live	else
+	${pageMax}
+#live	endif
+
+#define	nextNum
+#live	if (getnum(thisNum) <= 0)
+	${pageMax}
+#live	else
+	${eval(${thisNum} - 1)}
+#live	endif
