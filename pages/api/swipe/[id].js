@@ -29,7 +29,7 @@ const fetchSwipe = async (id) => {
 	}).length;
 	if (intId < 1 || intId >= pageMax) { intId = pageMax; }
 	htdb.define({ name: 'pageMax', body: `${pageMax}` });
-	console.log("pageMax", pageMax, htdb.getval('pageMax'));
+	console.log("SERVING", intId);
 	htdb.define({ name: 'nextUp', body: `/?id=${(intId < 1) ? pageMax : intId - 1}` });
 	htdb.define({ name: 'thisNum', body: `${intId - 1}` });
 	return { body: await htdb.render() }
