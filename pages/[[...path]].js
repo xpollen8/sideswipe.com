@@ -6,7 +6,7 @@ let htdb;
 export async function getServerSideProps({ query: { path = [], id = 0 } = {} }) {
 	let intId = parseInt(id);
 	if (!htdb) {
-		htdb = new HTDB(0);
+		htdb = new HTDB(process.cwd(), 0);
 	}
 
 	htdb.prerender = () => {
