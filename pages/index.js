@@ -1,18 +1,19 @@
 import Head from 'next/head'
-import path from "path";
-import getConfig from 'next/config'
 import HTDB from 'HTDBjs';
-const { serverRuntimeConfig } = getConfig()
 
 let htdb;
 
-export async function getServerSideProps({ query: { path = [], id = 0 } = {} }) {
-	console.log("IN SERVER", { path, id });
+export async function getServerSideProps({ query: { id = 0 } = {} }) {
+	console.log("IN SERVER", { id });
 	let intId = parseInt(id);
 	if (!htdb) {
+		const { path } = require("path");
 		if (process.env.NODE_ENV === "production") {
+			console.log("ROOT", path.join(process.cwd(), ".next/server/chunks"));
 			htdb = new HTDB(path.join(process.cwd(), ".next/server/chunks"), 1);
 		} else {
+			const getConfig = require('next/config');
+			const { serverRuntimeConfig } = getConfig.default();
 			htdb = new HTDB(serverRuntimeConfig.PROJECT_ROOT, 1);
 		}
 	}
