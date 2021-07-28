@@ -7,10 +7,11 @@ const { serverRuntimeConfig } = getConfig()
 let htdb;
 
 export async function getServerSideProps({ query: { path = [], id = 0 } = {} }) {
+	console.log("IN SERVER", { path, id });
 	let intId = parseInt(id);
 	if (!htdb) {
 		if (process.env.NODE_ENV === "production") {
-			htdb = new HTDB(path.join(process.cwd(), ".next/server/chunks"), 0);
+			htdb = new HTDB(path.join(process.cwd(), ".next/server/chunks"), 1);
 		} else {
 			htdb = new HTDB(serverRuntimeConfig.PROJECT_ROOT, 1);
 		}
