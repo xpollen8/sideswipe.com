@@ -6,11 +6,9 @@ import HTDB from 'HTDBjs';
 let htdb;
 
 export async function getServerSideProps({ query: { id = 0 } = {} }) {
-	console.log("IN SERVER", { id });
 	let intId = parseInt(id);
 	if (!htdb) {
 		if (process.env.NODE_ENV === "production") {
-			console.log("ROOT", path.join(process.cwd(), ".next/server/chunks"));
 			htdb = new HTDB(path.join(process.cwd(), ".next/server/chunks"), 0);
 		} else {
 			const { serverRuntimeConfig } = getConfig();
