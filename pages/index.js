@@ -1,5 +1,4 @@
-import path from "path";
-import getConfig from 'next/config'
+import { join } from "path";
 import Head from 'next/head'
 import HTDB from 'HTDBjs';
 
@@ -8,12 +7,8 @@ let htdb;
 export async function getServerSideProps({ query: { id = 0 } = {} }) {
 	let intId = parseInt(id);
 	if (!htdb) {
-		if (process.env.NODE_ENV === "production") {
-			htdb = new HTDB(path.join(process.cwd(), ".next/server/chunks"), 0);
-		} else {
-			const { serverRuntimeConfig } = getConfig();
-			htdb = new HTDB(serverRuntimeConfig.PROJECT_ROOT, 1);
-		}
+		const rootHTDB = join(process.cwd(), 'pages');
+		htdb = new HTDB(rootHTDB, 0);
 	}
 
 	htdb.prerender = () => {
